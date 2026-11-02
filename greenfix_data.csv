@@ -1,0 +1,1486 @@
+Job ID,Date,Customer ID,Area,Service Type,Customer Segment,Contract Type,Revenue,Cost
+J00001,2024-11-07,C0502,Saadiyat Island,Solar Panel Cleaning,Property Manager,Annual Contract,550.45,266.11
+J00002,2024-11-08,C0372,Mohammed Bin Zayed City,Deep Cleaning,Apartment,Annual Contract,342.94,205.02
+J00003,2024-11-14,C0502,Saadiyat Island,Plumbing,Property Manager,Annual Contract,349.08,206.14
+J00004,2024-11-15,C0372,Mohammed Bin Zayed City,Plumbing,Apartment,Annual Contract,221.34,134.49
+J00005,2024-11-23,C0043,Al Reem Island,Solar Panel Cleaning,Villa,Annual Contract,414.74,203.28
+J00006,2024-11-29,C0375,Mussafah,AC Maintenance,Villa,Pay-per-visit,144.45,88.02
+J00007,2024-11-30,C0043,Al Reem Island,Water-Saving Retrofit,Villa,Annual Contract,510.53,324.56
+J00008,2024-12-02,C0127,Saadiyat Island,Water-Saving Retrofit,Property Manager,Annual Contract,871.49,623.42
+J00009,2024-12-04,C0034,Corniche / City Center,Water-Saving Retrofit,Property Manager,Annual Contract,965.51,609.51
+J00010,2024-12-05,C0182,Al Raha,Landscaping,Property Manager,Pay-per-visit,479.16,303.83
+J00011,2024-12-07,C0343,Khalifa City,Solar Panel Cleaning,Property Manager,Annual Contract,326.58,173.17
+J00012,2024-12-08,C0090,Corniche / City Center,Water-Saving Retrofit,Apartment,Pay-per-visit,839.85,563.27
+J00013,2024-12-10,C0002,Khalifa City,Water-Saving Retrofit,Villa,Pay-per-visit,889.15,608.65
+J00014,2024-12-17,C0228,Khalifa City,Electrical,Apartment,Pay-per-visit,416.19,218.62
+J00015,2024-12-22,C0487,Al Raha,Deep Cleaning,Apartment,Pay-per-visit,553.31,406.21
+J00016,2024-12-23,C0467,Al Reem Island,AC Maintenance,Property Manager,Annual Contract,623.28,396.33
+J00017,2024-12-28,C0257,Yas Island,Plumbing,Apartment,Pay-per-visit,239.24,125.83
+J00018,2024-12-28,C0431,Mohammed Bin Zayed City,Solar Panel Cleaning,Apartment,Pay-per-visit,282.73,125.02
+J00019,2025-01-02,C0325,Yas Island,Water-Saving Retrofit,Villa,Annual Contract,893.48,576.12
+J00020,2025-01-02,C0345,Yas Island,Landscaping,Villa,Annual Contract,569.49,355.97
+J00021,2025-01-04,C0186,Al Reem Island,Landscaping,Apartment,Annual Contract,529.65,347.89
+J00022,2025-01-08,C0502,Saadiyat Island,Deep Cleaning,Property Manager,Annual Contract,1461.48,807.8
+J00023,2025-01-08,C0104,Mohammed Bin Zayed City,Deep Cleaning,Property Manager,Annual Contract,683.92,454.73
+J00024,2025-01-10,C0010,Al Reem Island,Landscaping,Apartment,Pay-per-visit,441.23,269.65
+J00025,2025-01-10,C0224,Mohammed Bin Zayed City,Water-Saving Retrofit,Apartment,Pay-per-visit,1025.83,703.55
+J00026,2025-01-10,C0223,Al Mushrif,Plumbing,Villa,Annual Contract,212.73,126.1
+J00027,2025-01-11,C0325,Yas Island,Landscaping,Villa,Annual Contract,273.2,184.86
+J00028,2025-01-12,C0444,Mussafah,Landscaping,Apartment,Pay-per-visit,403.9,273.83
+J00029,2025-01-13,C0301,Al Reem Island,Plumbing,Apartment,Pay-per-visit,274.06,170.28
+J00030,2025-01-17,C0502,Saadiyat Island,Plumbing,Property Manager,Annual Contract,302.64,171.47
+J00031,2025-01-21,C0128,Yas Island,Solar Panel Cleaning,Apartment,Pay-per-visit,474.13,232.36
+J00032,2025-01-22,C0345,Yas Island,Landscaping,Villa,Annual Contract,490.05,341.63
+J00033,2025-01-22,C0034,Corniche / City Center,Solar Panel Cleaning,Property Manager,Annual Contract,247.04,135.35
+J00034,2025-01-25,C0194,Yas Island,Plumbing,Villa,Pay-per-visit,231.76,144.24
+J00035,2025-01-25,C0519,Khalifa City,Water-Saving Retrofit,Apartment,Pay-per-visit,923.85,580.82
+J00036,2025-01-26,C0043,Al Reem Island,Water-Saving Retrofit,Villa,Annual Contract,1237.71,735.73
+J00037,2025-01-28,C0045,Mohammed Bin Zayed City,Landscaping,Property Manager,Pay-per-visit,378.21,231.83
+J00038,2025-01-28,C0128,Yas Island,Electrical,Apartment,Pay-per-visit,259.82,143.33
+J00039,2025-01-28,C0029,Mohammed Bin Zayed City,Solar Panel Cleaning,Apartment,Annual Contract,241.94,122.26
+J00040,2025-01-29,C0034,Corniche / City Center,Plumbing,Property Manager,Annual Contract,299.84,188.73
+J00041,2025-01-29,C0325,Yas Island,Plumbing,Villa,Annual Contract,204.24,116.69
+J00042,2025-01-31,C0104,Mohammed Bin Zayed City,Electrical,Property Manager,Annual Contract,413.28,242.93
+J00043,2025-01-31,C0355,Corniche / City Center,Pest Control,Apartment,Pay-per-visit,363.95,165.11
+J00044,2025-02-01,C0053,Al Mushrif,Pest Control,Property Manager,Annual Contract,439.52,255.05
+J00045,2025-02-03,C0257,Yas Island,Electrical,Apartment,Pay-per-visit,240.77,134.27
+J00046,2025-02-07,C0340,Al Mushrif,Deep Cleaning,Apartment,Annual Contract,785.61,499.23
+J00047,2025-02-09,C0364,Yas Island,Water-Saving Retrofit,Villa,Pay-per-visit,723.76,516.91
+J00048,2025-02-10,C0050,Mohammed Bin Zayed City,Landscaping,Villa,Annual Contract,439.48,283.86
+J00049,2025-02-11,C0325,Yas Island,Solar Panel Cleaning,Villa,Annual Contract,256.02,126.89
+J00050,2025-02-12,C0346,Al Raha,Solar Panel Cleaning,Property Manager,Pay-per-visit,870.26,381.05
+J00051,2025-02-14,C0345,Yas Island,Water-Saving Retrofit,Villa,Annual Contract,1342.18,976.5
+J00052,2025-02-15,C0175,Yas Island,Deep Cleaning,Villa,Pay-per-visit,716.43,414.63
+J00053,2025-02-16,C0395,Corniche / City Center,Electrical,Villa,Pay-per-visit,209.16,118.36
+J00054,2025-02-16,C0208,Yas Island,Landscaping,Property Manager,Annual Contract,769.14,518.83
+J00055,2025-02-17,C0188,Al Reem Island,Solar Panel Cleaning,Apartment,Pay-per-visit,262.21,143.35
+J00056,2025-02-18,C0043,Al Reem Island,Landscaping,Villa,Annual Contract,329.61,205.8
+J00057,2025-02-18,C0339,Mohammed Bin Zayed City,Water-Saving Retrofit,Apartment,Pay-per-visit,905.31,614.6
+J00058,2025-02-19,C0217,Khalifa City,Landscaping,Apartment,Annual Contract,240.9,157.85
+J00059,2025-02-19,C0202,Al Reem Island,Landscaping,Villa,Pay-per-visit,697.6,445.93
+J00060,2025-02-20,C0126,Al Reem Island,Landscaping,Property Manager,Pay-per-visit,704.2,482.97
+J00061,2025-02-22,C0186,Al Reem Island,Landscaping,Apartment,Annual Contract,332.51,229.99
+J00062,2025-02-26,C0217,Khalifa City,Landscaping,Apartment,Annual Contract,400.68,256.37
+J00063,2025-02-26,C0307,Al Reem Island,Landscaping,Villa,Pay-per-visit,608.69,399.84
+J00064,2025-02-26,C0058,Al Raha,Water-Saving Retrofit,Villa,Pay-per-visit,1922.78,1372.32
+J00065,2025-02-27,C0025,Al Reem Island,Pest Control,Villa,Pay-per-visit,320.8,170.11
+J00066,2025-03-03,C0042,Yas Island,AC Maintenance,Apartment,Pay-per-visit,317.61,170.88
+J00067,2025-03-03,C0377,Saadiyat Island,Water-Saving Retrofit,Apartment,Pay-per-visit,1398.89,1024.51
+J00068,2025-03-03,C0125,Al Raha,Electrical,Villa,Pay-per-visit,308.83,156.02
+J00069,2025-03-03,C0474,Al Reem Island,Solar Panel Cleaning,Apartment,Pay-per-visit,343.25,169.41
+J00070,2025-03-05,C0250,Khalifa City,Deep Cleaning,Villa,Pay-per-visit,542.75,310.41
+J00071,2025-03-05,C0217,Khalifa City,Deep Cleaning,Apartment,Annual Contract,601.25,365.77
+J00072,2025-03-06,C0275,Corniche / City Center,AC Maintenance,Villa,Pay-per-visit,282.5,149.13
+J00073,2025-03-07,C0519,Khalifa City,Pest Control,Apartment,Pay-per-visit,264.06,134.45
+J00074,2025-03-07,C0202,Al Reem Island,AC Maintenance,Villa,Pay-per-visit,415.84,287.3
+J00075,2025-03-08,C0068,Yas Island,Plumbing,Property Manager,Annual Contract,347.65,221.65
+J00076,2025-03-08,C0204,Yas Island,Landscaping,Property Manager,Pay-per-visit,467.59,291.17
+J00077,2025-03-08,C0107,Al Raha,Plumbing,Villa,Pay-per-visit,282.33,153.88
+J00078,2025-03-09,C0002,Khalifa City,Electrical,Villa,Pay-per-visit,204.23,120.99
+J00079,2025-03-09,C0272,Al Raha,Pest Control,Property Manager,Annual Contract,382.79,201.52
+J00080,2025-03-11,C0339,Mohammed Bin Zayed City,Pest Control,Apartment,Pay-per-visit,209.22,113.01
+J00081,2025-03-11,C0181,Al Reem Island,Deep Cleaning,Apartment,Pay-per-visit,1072.93,657.81
+J00082,2025-03-12,C0217,Khalifa City,Plumbing,Apartment,Annual Contract,162.62,93.07
+J00083,2025-03-13,C0194,Yas Island,Landscaping,Villa,Pay-per-visit,500.18,339.06
+J00084,2025-03-14,C0280,Al Reem Island,Solar Panel Cleaning,Apartment,Pay-per-visit,380.82,213.96
+J00085,2025-03-15,C0128,Yas Island,Landscaping,Apartment,Pay-per-visit,368.97,219.61
+J00086,2025-03-16,C0002,Khalifa City,Plumbing,Villa,Pay-per-visit,213.94,125.03
+J00087,2025-03-17,C0004,Al Reem Island,Electrical,Apartment,Annual Contract,212.13,122.16
+J00088,2025-03-18,C0181,Al Reem Island,Electrical,Apartment,Pay-per-visit,313.02,189.7
+J00089,2025-03-19,C0217,Khalifa City,Deep Cleaning,Apartment,Annual Contract,580.81,322.26
+J00090,2025-03-20,C0499,Al Reem Island,Pest Control,Apartment,Pay-per-visit,348.03,166.91
+J00091,2025-03-21,C0367,Mussafah,Pest Control,Villa,Annual Contract,255.11,134.96
+J00092,2025-03-22,C0388,Al Mushrif,Landscaping,Villa,Annual Contract,401.65,264.01
+J00093,2025-03-23,C0332,Mohammed Bin Zayed City,Deep Cleaning,Apartment,Pay-per-visit,523.21,307.7
+J00094,2025-03-23,C0104,Mohammed Bin Zayed City,Pest Control,Property Manager,Annual Contract,356.72,148.75
+J00095,2025-03-27,C0402,Khalifa City,Landscaping,Apartment,Annual Contract,272.97,173.93
+J00096,2025-03-27,C0343,Khalifa City,Plumbing,Property Manager,Annual Contract,468.86,251.0
+J00097,2025-03-28,C0175,Yas Island,Landscaping,Villa,Pay-per-visit,480.51,309.4
+J00098,2025-03-29,C0209,Yas Island,Plumbing,Apartment,Pay-per-visit,381.12,226.77
+J00099,2025-03-30,C0208,Yas Island,Landscaping,Property Manager,Annual Contract,738.79,456.14
+J00100,2025-03-30,C0034,Corniche / City Center,Electrical,Property Manager,Annual Contract,323.89,174.78
+J00101,2025-04-02,C0225,Saadiyat Island,Water-Saving Retrofit,Villa,Pay-per-visit,1199.67,820.74
+J00102,2025-04-03,C0325,Yas Island,Solar Panel Cleaning,Villa,Annual Contract,298.75,150.58
+J00103,2025-04-06,C0173,Al Reem Island,Solar Panel Cleaning,Villa,Pay-per-visit,247.83,134.19
+J00104,2025-04-06,C0208,Yas Island,Deep Cleaning,Property Manager,Annual Contract,1077.35,615.76
+J00105,2025-04-08,C0280,Al Reem Island,Solar Panel Cleaning,Apartment,Pay-per-visit,285.03,132.44
+J00106,2025-04-09,C0400,Yas Island,Pest Control,Villa,Pay-per-visit,241.24,127.89
+J00107,2025-04-10,C0224,Mohammed Bin Zayed City,Solar Panel Cleaning,Apartment,Pay-per-visit,427.96,229.74
+J00108,2025-04-10,C0223,Al Mushrif,Plumbing,Villa,Annual Contract,158.11,78.02
+J00109,2025-04-10,C0209,Yas Island,Solar Panel Cleaning,Apartment,Pay-per-visit,289.58,157.97
+J00110,2025-04-10,C0402,Khalifa City,Solar Panel Cleaning,Apartment,Annual Contract,395.74,196.96
+J00111,2025-04-12,C0092,Khalifa City,Water-Saving Retrofit,Apartment,Pay-per-visit,716.68,528.99
+J00112,2025-04-13,C0151,Mussafah,Solar Panel Cleaning,Apartment,Pay-per-visit,200.01,99.04
+J00113,2025-04-13,C0343,Khalifa City,Landscaping,Property Manager,Annual Contract,692.82,484.0
+J00114,2025-04-14,C0188,Al Reem Island,Electrical,Apartment,Pay-per-visit,186.77,98.87
+J00115,2025-04-14,C0499,Al Reem Island,Plumbing,Apartment,Pay-per-visit,191.53,113.17
+J00116,2025-04-14,C0515,Al Raha,Pest Control,Villa,Pay-per-visit,212.36,99.35
+J00117,2025-04-15,C0104,Mohammed Bin Zayed City,Plumbing,Property Manager,Annual Contract,226.21,150.21
+J00118,2025-04-19,C0034,Corniche / City Center,Pest Control,Property Manager,Annual Contract,279.24,120.53
+J00119,2025-04-20,C0128,Yas Island,Solar Panel Cleaning,Apartment,Pay-per-visit,366.92,197.78
+J00120,2025-04-25,C0501,Saadiyat Island,Water-Saving Retrofit,Apartment,Pay-per-visit,1046.33,717.21
+J00121,2025-04-26,C0478,Yas Island,AC Maintenance,Apartment,Pay-per-visit,491.58,267.64
+J00122,2025-04-28,C0467,Al Reem Island,Deep Cleaning,Property Manager,Annual Contract,913.35,586.37
+J00123,2025-04-28,C0349,Al Mushrif,Deep Cleaning,Villa,Pay-per-visit,775.38,510.17
+J00124,2025-04-30,C0345,Yas Island,Solar Panel Cleaning,Villa,Annual Contract,424.8,242.58
+J00125,2025-04-30,C0119,Mohammed Bin Zayed City,AC Maintenance,Villa,Annual Contract,324.43,183.86
+J00126,2025-05-01,C0206,Yas Island,Water-Saving Retrofit,Apartment,Pay-per-visit,969.65,687.42
+J00127,2025-05-01,C0209,Yas Island,AC Maintenance,Apartment,Pay-per-visit,543.26,297.89
+J00128,2025-05-01,C0375,Mussafah,Electrical,Villa,Pay-per-visit,346.06,183.93
+J00129,2025-05-01,C0096,Mohammed Bin Zayed City,Electrical,Villa,Annual Contract,262.82,147.07
+J00130,2025-05-01,C0250,Khalifa City,Deep Cleaning,Villa,Pay-per-visit,783.26,543.17
+J00131,2025-05-02,C0483,Mohammed Bin Zayed City,Plumbing,Villa,Pay-per-visit,319.52,192.86
+J00132,2025-05-02,C0272,Al Raha,Deep Cleaning,Property Manager,Annual Contract,856.86,504.41
+J00133,2025-05-02,C0233,Mussafah,Electrical,Villa,Pay-per-visit,237.07,141.86
+J00134,2025-05-05,C0164,Yas Island,Plumbing,Villa,Pay-per-visit,346.43,193.6
+J00135,2025-05-05,C0300,Al Reem Island,Water-Saving Retrofit,Apartment,Annual Contract,760.24,524.22
+J00136,2025-05-06,C0104,Mohammed Bin Zayed City,Plumbing,Property Manager,Annual Contract,255.38,167.7
+J00137,2025-05-07,C0022,Khalifa City,Electrical,Apartment,Pay-per-visit,244.8,133.72
+J00138,2025-05-07,C0476,Saadiyat Island,Pest Control,Property Manager,Annual Contract,591.48,288.95
+J00139,2025-05-07,C0345,Yas Island,Pest Control,Villa,Annual Contract,324.46,176.73
+J00140,2025-05-08,C0217,Khalifa City,Solar Panel Cleaning,Apartment,Annual Contract,245.62,128.7
+J00141,2025-05-09,C0055,Mohammed Bin Zayed City,Plumbing,Apartment,Pay-per-visit,171.98,97.43
+J00142,2025-05-12,C0236,Al Reem Island,AC Maintenance,Villa,Annual Contract,206.4,128.36
+J00143,2025-05-13,C0354,Al Raha,AC Maintenance,Villa,Pay-per-visit,342.48,218.31
+J00144,2025-05-14,C0476,Saadiyat Island,Plumbing,Property Manager,Annual Contract,579.2,346.86
+J00145,2025-05-16,C0053,Al Mushrif,Electrical,Property Manager,Annual Contract,326.56,201.93
+J00146,2025-05-19,C0499,Al Reem Island,Solar Panel Cleaning,Apartment,Pay-per-visit,322.36,181.23
+J00147,2025-05-20,C0399,Mohammed Bin Zayed City,Electrical,Villa,Pay-per-visit,180.56,107.82
+J00148,2025-05-20,C0318,Saadiyat Island,Water-Saving Retrofit,Apartment,Pay-per-visit,951.44,667.99
+J00149,2025-05-20,C0092,Khalifa City,Water-Saving Retrofit,Apartment,Pay-per-visit,691.96,503.23
+J00150,2025-05-21,C0204,Yas Island,AC Maintenance,Property Manager,Pay-per-visit,468.37,245.83
+J00151,2025-05-21,C0038,Yas Island,Plumbing,Apartment,Pay-per-visit,278.5,171.39
+J00152,2025-05-22,C0387,Yas Island,AC Maintenance,Apartment,Pay-per-visit,398.16,231.91
+J00153,2025-05-23,C0284,Al Mushrif,Solar Panel Cleaning,Apartment,Pay-per-visit,352.35,194.32
+J00154,2025-05-23,C0507,Mohammed Bin Zayed City,Electrical,Villa,Pay-per-visit,186.07,107.78
+J00155,2025-05-23,C0186,Al Reem Island,Solar Panel Cleaning,Apartment,Annual Contract,287.91,154.27
+J00156,2025-05-23,C0377,Saadiyat Island,Pest Control,Apartment,Pay-per-visit,436.84,243.27
+J00157,2025-05-24,C0371,Al Raha,Solar Panel Cleaning,Villa,Pay-per-visit,257.21,135.57
+J00158,2025-05-24,C0068,Yas Island,Solar Panel Cleaning,Property Manager,Annual Contract,350.04,191.12
+J00159,2025-05-25,C0130,Khalifa City,Pest Control,Property Manager,Annual Contract,485.56,252.43
+J00160,2025-05-25,C0425,Mohammed Bin Zayed City,Solar Panel Cleaning,Apartment,Pay-per-visit,324.99,167.04
+J00161,2025-05-26,C0374,Al Raha,Plumbing,Villa,Pay-per-visit,218.38,114.49
+J00162,2025-05-26,C0499,Al Reem Island,Deep Cleaning,Apartment,Pay-per-visit,653.04,399.7
+J00163,2025-05-27,C0332,Mohammed Bin Zayed City,Water-Saving Retrofit,Apartment,Pay-per-visit,588.66,410.21
+J00164,2025-05-27,C0006,Mussafah,AC Maintenance,Villa,Pay-per-visit,449.86,257.84
+J00165,2025-05-28,C0223,Al Mushrif,Pest Control,Villa,Annual Contract,285.42,131.97
+J00166,2025-05-28,C0380,Yas Island,Water-Saving Retrofit,Villa,Annual Contract,896.82,602.58
+J00167,2025-05-29,C0204,Yas Island,Solar Panel Cleaning,Property Manager,Pay-per-visit,667.69,334.83
+J00168,2025-05-29,C0007,Mohammed Bin Zayed City,Solar Panel Cleaning,Villa,Pay-per-visit,255.24,127.54
+J00169,2025-05-31,C0029,Mohammed Bin Zayed City,Landscaping,Apartment,Annual Contract,553.28,397.47
+J00170,2025-05-31,C0068,Yas Island,Plumbing,Property Manager,Annual Contract,364.54,176.76
+J00171,2025-05-31,C0242,Mohammed Bin Zayed City,Solar Panel Cleaning,Apartment,Annual Contract,314.73,159.85
+J00172,2025-06-01,C0465,Yas Island,Plumbing,Apartment,Annual Contract,259.59,135.92
+J00173,2025-06-02,C0236,Al Reem Island,AC Maintenance,Villa,Annual Contract,402.89,243.45
+J00174,2025-06-05,C0043,Al Reem Island,Landscaping,Villa,Annual Contract,737.42,436.19
+J00175,2025-06-06,C0246,Khalifa City,Pest Control,Villa,Pay-per-visit,272.15,127.32
+J00176,2025-06-06,C0318,Saadiyat Island,Electrical,Apartment,Pay-per-visit,287.27,149.83
+J00177,2025-06-08,C0315,Mohammed Bin Zayed City,AC Maintenance,Villa,Pay-per-visit,329.95,195.42
+J00178,2025-06-09,C0465,Yas Island,Pest Control,Apartment,Annual Contract,526.22,262.47
+J00179,2025-06-09,C0468,Mohammed Bin Zayed City,Solar Panel Cleaning,Apartment,Annual Contract,243.5,140.42
+J00180,2025-06-12,C0017,Mohammed Bin Zayed City,Pest Control,Apartment,Pay-per-visit,236.27,123.0
+J00181,2025-06-13,C0029,Mohammed Bin Zayed City,AC Maintenance,Apartment,Annual Contract,350.97,207.86
+J00182,2025-06-13,C0137,Al Raha,Pest Control,Villa,Annual Contract,179.42,85.41
+J00183,2025-06-15,C0005,Yas Island,AC Maintenance,Apartment,Annual Contract,247.85,128.53
+J00184,2025-06-15,C0223,Al Mushrif,Plumbing,Villa,Annual Contract,241.32,146.68
+J00185,2025-06-16,C0164,Yas Island,Pest Control,Villa,Pay-per-visit,211.24,106.99
+J00186,2025-06-16,C0468,Mohammed Bin Zayed City,Pest Control,Apartment,Annual Contract,232.17,135.52
+J00187,2025-06-16,C0104,Mohammed Bin Zayed City,Plumbing,Property Manager,Annual Contract,254.24,125.69
+J00188,2025-06-17,C0323,Al Raha,AC Maintenance,Villa,Pay-per-visit,557.95,338.87
+J00189,2025-06-18,C0209,Yas Island,Pest Control,Apartment,Pay-per-visit,476.36,260.16
+J00190,2025-06-19,C0278,Mohammed Bin Zayed City,Water-Saving Retrofit,Property Manager,Pay-per-visit,1345.79,869.01
+J00191,2025-06-19,C0144,Yas Island,AC Maintenance,Villa,Pay-per-visit,381.48,234.13
+J00192,2025-06-19,C0220,Yas Island,Pest Control,Villa,Pay-per-visit,518.55,253.12
+J00193,2025-06-19,C0503,Yas Island,Pest Control,Apartment,Pay-per-visit,346.34,158.91
+J00194,2025-06-19,C0211,Yas Island,Water-Saving Retrofit,Villa,Annual Contract,967.06,629.65
+J00195,2025-06-20,C0043,Al Reem Island,Landscaping,Villa,Annual Contract,437.52,280.75
+J00196,2025-06-21,C0254,Saadiyat Island,AC Maintenance,Apartment,Annual Contract,363.8,216.18
+J00197,2025-06-24,C0140,Khalifa City,AC Maintenance,Apartment,Pay-per-visit,605.82,337.45
+J00198,2025-06-25,C0370,Yas Island,Plumbing,Villa,Pay-per-visit,283.76,170.52
+J00199,2025-06-25,C0300,Al Reem Island,Electrical,Apartment,Annual Contract,369.9,200.07
+J00200,2025-06-25,C0391,Mohammed Bin Zayed City,Pest Control,Villa,Pay-per-visit,254.66,125.85
+J00201,2025-06-27,C0186,Al Reem Island,AC Maintenance,Apartment,Annual Contract,349.52,201.23
+J00202,2025-06-27,C0043,Al Reem Island,AC Maintenance,Villa,Annual Contract,327.93,190.97
+J00203,2025-06-28,C0385,Corniche / City Center,Water-Saving Retrofit,Property Manager,Annual Contract,1413.66,966.15
+J00204,2025-06-28,C0138,Al Raha,Solar Panel Cleaning,Villa,Pay-per-visit,277.08,139.33
+J00205,2025-06-28,C0388,Al Mushrif,Solar Panel Cleaning,Villa,Annual Contract,440.38,228.97
+J00206,2025-06-29,C0427,Khalifa City,AC Maintenance,Apartment,Pay-per-visit,366.72,241.82
+J00207,2025-06-29,C0293,Al Mushrif,Water-Saving Retrofit,Apartment,Pay-per-visit,983.93,628.09
+J00208,2025-06-30,C0349,Al Mushrif,Pest Control,Villa,Pay-per-visit,289.13,141.46
+J00209,2025-07-01,C0090,Corniche / City Center,Electrical,Apartment,Pay-per-visit,271.6,143.08
+J00210,2025-07-03,C0379,Yas Island,AC Maintenance,Villa,Annual Contract,409.08,211.16
+J00211,2025-07-03,C0277,Mussafah,Pest Control,Apartment,Pay-per-visit,284.95,116.36
+J00212,2025-07-04,C0078,Khalifa City,Electrical,Property Manager,Annual Contract,256.15,140.92
+J00213,2025-07-05,C0492,Mohammed Bin Zayed City,Pest Control,Property Manager,Pay-per-visit,380.75,174.04
+J00214,2025-07-11,C0078,Khalifa City,Plumbing,Property Manager,Annual Contract,259.54,149.61
+J00215,2025-07-11,C0343,Khalifa City,Electrical,Property Manager,Annual Contract,302.0,182.25
+J00216,2025-07-11,C0272,Al Raha,AC Maintenance,Property Manager,Annual Contract,594.26,379.69
+J00217,2025-07-11,C0017,Mohammed Bin Zayed City,Plumbing,Apartment,Pay-per-visit,254.91,145.9
+J00218,2025-07-13,C0368,Al Reem Island,Pest Control,Apartment,Pay-per-visit,257.89,133.81
+J00219,2025-07-13,C0004,Al Reem Island,Pest Control,Apartment,Annual Contract,344.31,167.65
+J00220,2025-07-13,C0254,Saadiyat Island,AC Maintenance,Apartment,Annual Contract,394.14,233.03
+J00221,2025-07-14,C0385,Corniche / City Center,Plumbing,Property Manager,Annual Contract,387.16,205.12
+J00222,2025-07-17,C0489,Al Raha,AC Maintenance,Villa,Pay-per-visit,280.15,160.21
+J00223,2025-07-17,C0196,Al Raha,AC Maintenance,Villa,Pay-per-visit,253.25,142.76
+J00224,2025-07-17,C0006,Mussafah,Electrical,Villa,Pay-per-visit,147.74,80.02
+J00225,2025-07-17,C0275,Corniche / City Center,Electrical,Villa,Pay-per-visit,235.27,138.48
+J00226,2025-07-19,C0515,Al Raha,Electrical,Villa,Pay-per-visit,308.82,173.68
+J00227,2025-07-21,C0340,Al Mushrif,AC Maintenance,Apartment,Annual Contract,296.81,165.86
+J00228,2025-07-21,C0146,Al Reem Island,Plumbing,Property Manager,Annual Contract,243.08,141.03
+J00229,2025-07-21,C0461,Saadiyat Island,AC Maintenance,Property Manager,Annual Contract,414.28,274.84
+J00230,2025-07-21,C0438,Saadiyat Island,Pest Control,Apartment,Pay-per-visit,397.45,220.25
+J00231,2025-07-21,C0104,Mohammed Bin Zayed City,AC Maintenance,Property Manager,Annual Contract,807.54,498.61
+J00232,2025-07-21,C0004,Al Reem Island,Solar Panel Cleaning,Apartment,Annual Contract,287.8,153.71
+J00233,2025-07-22,C0090,Corniche / City Center,AC Maintenance,Apartment,Pay-per-visit,416.2,215.89
+J00234,2025-07-23,C0323,Al Raha,AC Maintenance,Villa,Pay-per-visit,461.89,274.86
+J00235,2025-07-24,C0467,Al Reem Island,Plumbing,Property Manager,Annual Contract,322.34,204.03
+J00236,2025-07-25,C0105,Saadiyat Island,AC Maintenance,Apartment,Pay-per-visit,606.85,383.98
+J00237,2025-07-26,C0234,Khalifa City,Pest Control,Apartment,Annual Contract,284.7,152.26
+J00238,2025-07-26,C0250,Khalifa City,Electrical,Villa,Pay-per-visit,146.85,79.1
+J00239,2025-07-27,C0456,Al Reem Island,Deep Cleaning,Villa,Pay-per-visit,849.12,513.77
+J00240,2025-07-27,C0503,Yas Island,Plumbing,Apartment,Pay-per-visit,382.85,243.74
+J00241,2025-07-29,C0464,Saadiyat Island,Pest Control,Villa,Pay-per-visit,329.49,148.61
+J00242,2025-07-30,C0254,Saadiyat Island,Water-Saving Retrofit,Apartment,Annual Contract,1196.54,865.98
+J00243,2025-07-30,C0302,Al Reem Island,AC Maintenance,Apartment,Pay-per-visit,776.85,459.76
+J00244,2025-07-31,C0133,Khalifa City,Electrical,Property Manager,Annual Contract,236.99,129.49
+J00245,2025-07-31,C0467,Al Reem Island,Pest Control,Property Manager,Annual Contract,401.16,195.26
+J00246,2025-08-01,C0476,Saadiyat Island,Electrical,Property Manager,Annual Contract,636.18,312.89
+J00247,2025-08-02,C0068,Yas Island,Plumbing,Property Manager,Annual Contract,423.74,241.75
+J00248,2025-08-02,C0440,Mohammed Bin Zayed City,AC Maintenance,Villa,Pay-per-visit,391.14,234.42
+J00249,2025-08-02,C0288,Mussafah,Plumbing,Villa,Pay-per-visit,174.43,95.45
+J00250,2025-08-02,C0487,Al Raha,Electrical,Apartment,Pay-per-visit,257.25,126.52
+J00251,2025-08-02,C0223,Al Mushrif,Water-Saving Retrofit,Villa,Annual Contract,711.36,456.86
+J00252,2025-08-03,C0461,Saadiyat Island,Deep Cleaning,Property Manager,Annual Contract,1614.19,925.37
+J00253,2025-08-03,C0194,Yas Island,AC Maintenance,Villa,Pay-per-visit,500.77,275.78
+J00254,2025-08-03,C0456,Al Reem Island,Pest Control,Villa,Pay-per-visit,405.72,199.14
+J00255,2025-08-04,C0075,Mohammed Bin Zayed City,Landscaping,Apartment,Pay-per-visit,348.26,216.83
+J00256,2025-08-04,C0005,Yas Island,Solar Panel Cleaning,Apartment,Annual Contract,263.17,130.28
+J00257,2025-08-04,C0173,Al Reem Island,AC Maintenance,Villa,Pay-per-visit,310.9,188.63
+J00258,2025-08-04,C0055,Mohammed Bin Zayed City,Solar Panel Cleaning,Apartment,Pay-per-visit,293.49,171.78
+J00259,2025-08-05,C0490,Mohammed Bin Zayed City,AC Maintenance,Apartment,Annual Contract,230.84,141.45
+J00260,2025-08-07,C0414,Al Reem Island,Electrical,Villa,Pay-per-visit,270.2,169.27
+J00261,2025-08-08,C0354,Al Raha,Plumbing,Villa,Pay-per-visit,254.83,148.55
+J00262,2025-08-09,C0097,Corniche / City Center,Water-Saving Retrofit,Apartment,Pay-per-visit,379.73,249.18
+J00263,2025-08-13,C0105,Saadiyat Island,AC Maintenance,Apartment,Pay-per-visit,597.31,340.62
+J00264,2025-08-14,C0360,Corniche / City Center,Solar Panel Cleaning,Villa,Annual Contract,347.77,165.63
+J00265,2025-08-14,C0415,Saadiyat Island,Solar Panel Cleaning,Property Manager,Pay-per-visit,777.25,445.93
+J00266,2025-08-14,C0337,Corniche / City Center,Solar Panel Cleaning,Apartment,Pay-per-visit,511.61,263.67
+J00267,2025-08-15,C0469,Mussafah,Plumbing,Villa,Pay-per-visit,258.56,138.61
+J00268,2025-08-15,C0272,Al Raha,Pest Control,Property Manager,Annual Contract,510.86,248.36
+J00269,2025-08-15,C0241,Mohammed Bin Zayed City,Pest Control,Apartment,Pay-per-visit,182.91,102.35
+J00270,2025-08-16,C0219,Al Reem Island,Pest Control,Apartment,Pay-per-visit,283.35,140.8
+J00271,2025-08-17,C0357,Mohammed Bin Zayed City,Electrical,Property Manager,Annual Contract,328.65,178.32
+J00272,2025-08-17,C0236,Al Reem Island,Plumbing,Villa,Annual Contract,186.98,105.62
+J00273,2025-08-18,C0447,Yas Island,AC Maintenance,Apartment,Pay-per-visit,355.48,214.48
+J00274,2025-08-18,C0212,Mohammed Bin Zayed City,Electrical,Property Manager,Annual Contract,356.7,208.11
+J00275,2025-08-18,C0017,Mohammed Bin Zayed City,Pest Control,Apartment,Pay-per-visit,293.4,142.27
+J00276,2025-08-18,C0292,Mohammed Bin Zayed City,AC Maintenance,Apartment,Pay-per-visit,450.87,277.38
+J00277,2025-08-19,C0121,Khalifa City,Electrical,Property Manager,Pay-per-visit,501.71,282.78
+J00278,2025-08-20,C0390,Al Reem Island,AC Maintenance,Apartment,Pay-per-visit,388.2,208.63
+J00279,2025-08-22,C0443,Mohammed Bin Zayed City,Solar Panel Cleaning,Property Manager,Pay-per-visit,472.83,238.65
+J00280,2025-08-22,C0402,Khalifa City,Pest Control,Apartment,Annual Contract,294.11,153.84
+J00281,2025-08-23,C0295,Mohammed Bin Zayed City,AC Maintenance,Villa,Annual Contract,354.23,213.85
+J00282,2025-08-23,C0461,Saadiyat Island,Plumbing,Property Manager,Annual Contract,374.98,202.49
+J00283,2025-08-24,C0100,Mohammed Bin Zayed City,Pest Control,Villa,Pay-per-visit,289.96,141.98
+J00284,2025-08-24,C0357,Mohammed Bin Zayed City,Solar Panel Cleaning,Property Manager,Annual Contract,460.53,256.51
+J00285,2025-08-25,C0111,Mohammed Bin Zayed City,AC Maintenance,Property Manager,Annual Contract,580.12,372.31
+J00286,2025-08-26,C0307,Al Reem Island,AC Maintenance,Villa,Pay-per-visit,335.54,208.36
+J00287,2025-08-26,C0004,Al Reem Island,Plumbing,Apartment,Annual Contract,203.8,127.71
+J00288,2025-08-27,C0236,Al Reem Island,Electrical,Villa,Annual Contract,168.7,84.91
+J00289,2025-08-28,C0104,Mohammed Bin Zayed City,Solar Panel Cleaning,Property Manager,Annual Contract,459.5,229.56
+J00290,2025-08-28,C0014,Mohammed Bin Zayed City,Pest Control,Villa,Pay-per-visit,269.64,151.12
+J00291,2025-08-29,C0266,Yas Island,Pest Control,Villa,Pay-per-visit,279.08,143.41
+J00292,2025-08-29,C0005,Yas Island,Pest Control,Apartment,Annual Contract,360.45,187.72
+J00293,2025-08-29,C0234,Khalifa City,Deep Cleaning,Apartment,Annual Contract,731.0,477.43
+J00294,2025-08-30,C0449,Mohammed Bin Zayed City,Plumbing,Villa,Pay-per-visit,237.87,125.58
+J00295,2025-08-30,C0418,Corniche / City Center,AC Maintenance,Apartment,Annual Contract,381.15,203.89
+J00296,2025-08-30,C0204,Yas Island,Water-Saving Retrofit,Property Manager,Pay-per-visit,1836.54,1336.05
+J00297,2025-08-31,C0021,Saadiyat Island,Electrical,Villa,Annual Contract,238.26,119.49
+J00298,2025-08-31,C0370,Yas Island,Pest Control,Villa,Pay-per-visit,217.83,101.72
+J00299,2025-09-01,C0345,Yas Island,Plumbing,Villa,Annual Contract,241.29,129.24
+J00300,2025-09-02,C0037,Khalifa City,Deep Cleaning,Apartment,Annual Contract,767.93,481.87
+J00301,2025-09-02,C0332,Mohammed Bin Zayed City,AC Maintenance,Apartment,Pay-per-visit,394.99,263.04
+J00302,2025-09-03,C0086,Corniche / City Center,AC Maintenance,Villa,Pay-per-visit,395.39,250.79
+J00303,2025-09-04,C0076,Al Raha,Plumbing,Apartment,Pay-per-visit,328.18,176.01
+J00304,2025-09-05,C0005,Yas Island,Solar Panel Cleaning,Apartment,Annual Contract,345.75,167.92
+J00305,2025-09-08,C0178,Mohammed Bin Zayed City,Plumbing,Apartment,Pay-per-visit,179.11,102.32
+J00306,2025-09-08,C0217,Khalifa City,Deep Cleaning,Apartment,Annual Contract,668.09,444.78
+J00307,2025-09-08,C0251,Al Reem Island,Pest Control,Villa,Pay-per-visit,269.04,130.9
+J00308,2025-09-08,C0375,Mussafah,Solar Panel Cleaning,Villa,Pay-per-visit,263.31,133.95
+J00309,2025-09-09,C0332,Mohammed Bin Zayed City,Plumbing,Apartment,Pay-per-visit,303.83,180.09
+J00310,2025-09-09,C0119,Mohammed Bin Zayed City,Water-Saving Retrofit,Villa,Annual Contract,994.01,672.43
+J00311,2025-09-09,C0245,Mohammed Bin Zayed City,AC Maintenance,Villa,Pay-per-visit,293.79,176.45
+J00312,2025-09-10,C0234,Khalifa City,Plumbing,Apartment,Annual Contract,299.81,156.37
+J00313,2025-09-12,C0370,Yas Island,Plumbing,Villa,Pay-per-visit,276.54,166.54
+J00314,2025-09-12,C0190,Saadiyat Island,Electrical,Apartment,Annual Contract,273.74,162.15
+J00315,2025-09-12,C0005,Yas Island,Solar Panel Cleaning,Apartment,Annual Contract,314.53,138.42
+J00316,2025-09-13,C0252,Yas Island,Solar Panel Cleaning,Villa,Annual Contract,409.75,196.79
+J00317,2025-09-13,C0272,Al Raha,Plumbing,Property Manager,Annual Contract,282.04,145.76
+J00318,2025-09-14,C0137,Al Raha,Water-Saving Retrofit,Villa,Annual Contract,1055.68,691.38
+J00319,2025-09-14,C0345,Yas Island,Water-Saving Retrofit,Villa,Annual Contract,861.06,617.6
+J00320,2025-09-15,C0379,Yas Island,AC Maintenance,Villa,Annual Contract,322.94,205.93
+J00321,2025-09-16,C0105,Saadiyat Island,Electrical,Apartment,Pay-per-visit,369.41,200.47
+J00322,2025-09-17,C0212,Mohammed Bin Zayed City,Plumbing,Property Manager,Annual Contract,341.61,155.96
+J00323,2025-09-17,C0078,Khalifa City,AC Maintenance,Property Manager,Annual Contract,484.17,249.96
+J00324,2025-09-17,C0234,Khalifa City,AC Maintenance,Apartment,Annual Contract,380.29,259.71
+J00325,2025-09-17,C0411,Yas Island,AC Maintenance,Villa,Pay-per-visit,491.49,324.3
+J00326,2025-09-19,C0026,Mohammed Bin Zayed City,Landscaping,Villa,Annual Contract,298.86,193.78
+J00327,2025-09-19,C0043,Al Reem Island,AC Maintenance,Villa,Annual Contract,396.95,246.19
+J00328,2025-09-20,C0181,Al Reem Island,AC Maintenance,Apartment,Pay-per-visit,403.38,247.62
+J00329,2025-09-20,C0028,Al Raha,Landscaping,Villa,Pay-per-visit,402.9,258.31
+J00330,2025-09-21,C0324,Mussafah,AC Maintenance,Apartment,Pay-per-visit,602.42,354.58
+J00331,2025-09-22,C0360,Corniche / City Center,AC Maintenance,Villa,Annual Contract,292.02,166.8
+J00332,2025-09-22,C0059,Mussafah,Pest Control,Villa,Pay-per-visit,286.63,138.74
+J00333,2025-09-23,C0420,Yas Island,Plumbing,Property Manager,Annual Contract,434.07,235.57
+J00334,2025-09-23,C0105,Saadiyat Island,Deep Cleaning,Apartment,Pay-per-visit,613.54,423.81
+J00335,2025-09-23,C0487,Al Raha,AC Maintenance,Apartment,Pay-per-visit,225.44,132.49
+J00336,2025-09-23,C0241,Mohammed Bin Zayed City,Electrical,Apartment,Pay-per-visit,184.77,103.94
+J00337,2025-09-24,C0236,Al Reem Island,Electrical,Villa,Annual Contract,309.83,179.63
+J00338,2025-09-25,C0416,Corniche / City Center,Solar Panel Cleaning,Apartment,Pay-per-visit,348.73,190.71
+J00339,2025-09-25,C0068,Yas Island,Electrical,Property Manager,Annual Contract,339.47,182.95
+J00340,2025-09-26,C0080,Al Mushrif,Solar Panel Cleaning,Villa,Pay-per-visit,289.06,156.3
+J00341,2025-09-26,C0005,Yas Island,AC Maintenance,Apartment,Annual Contract,244.29,153.97
+J00342,2025-09-28,C0450,Khalifa City,Electrical,Apartment,Annual Contract,307.4,167.49
+J00343,2025-09-29,C0020,Yas Island,Pest Control,Apartment,Pay-per-visit,331.06,180.17
+J00344,2025-09-30,C0079,Yas Island,Solar Panel Cleaning,Villa,Annual Contract,318.29,174.65
+J00345,2025-09-30,C0489,Al Raha,Plumbing,Villa,Pay-per-visit,267.77,171.03
+J00346,2025-10-01,C0131,Al Reem Island,Pest Control,Property Manager,Annual Contract,520.39,275.98
+J00347,2025-10-01,C0104,Mohammed Bin Zayed City,Landscaping,Property Manager,Annual Contract,558.33,328.08
+J00348,2025-10-02,C0395,Corniche / City Center,AC Maintenance,Villa,Pay-per-visit,397.4,213.99
+J00349,2025-10-02,C0254,Saadiyat Island,Water-Saving Retrofit,Apartment,Annual Contract,1278.02,840.21
+J00350,2025-10-02,C0068,Yas Island,Pest Control,Property Manager,Annual Contract,294.63,161.12
+J00351,2025-10-02,C0416,Corniche / City Center,Solar Panel Cleaning,Apartment,Pay-per-visit,323.79,159.05
+J00352,2025-10-02,C0196,Al Raha,Pest Control,Villa,Pay-per-visit,194.32,95.95
+J00353,2025-10-03,C0160,Al Reem Island,Landscaping,Apartment,Pay-per-visit,342.1,216.79
+J00354,2025-10-03,C0038,Yas Island,Electrical,Apartment,Pay-per-visit,367.19,197.28
+J00355,2025-10-04,C0296,Al Raha,Water-Saving Retrofit,Villa,Annual Contract,514.43,391.18
+J00356,2025-10-04,C0302,Al Reem Island,Landscaping,Apartment,Pay-per-visit,407.55,250.42
+J00357,2025-10-05,C0179,Yas Island,Deep Cleaning,Apartment,Pay-per-visit,792.55,514.58
+J00358,2025-10-05,C0215,Al Mushrif,Water-Saving Retrofit,Villa,Pay-per-visit,1325.1,896.62
+J00359,2025-10-06,C0388,Al Mushrif,AC Maintenance,Villa,Annual Contract,465.42,322.23
+J00360,2025-10-07,C0132,Saadiyat Island,AC Maintenance,Apartment,Annual Contract,535.17,322.4
+J00361,2025-10-07,C0079,Yas Island,Solar Panel Cleaning,Villa,Annual Contract,426.67,225.89
+J00362,2025-10-08,C0485,Al Reem Island,Electrical,Property Manager,Pay-per-visit,337.13,193.73
+J00363,2025-10-08,C0189,Mussafah,Electrical,Villa,Annual Contract,175.83,98.7
+J00364,2025-10-09,C0253,Al Raha,Solar Panel Cleaning,Apartment,Pay-per-visit,308.59,136.47
+J00365,2025-10-09,C0156,Saadiyat Island,Plumbing,Apartment,Pay-per-visit,425.3,256.77
+J00366,2025-10-10,C0345,Yas Island,AC Maintenance,Villa,Annual Contract,392.67,247.46
+J00367,2025-10-10,C0084,Al Reem Island,Electrical,Property Manager,Pay-per-visit,521.96,290.28
+J00368,2025-10-10,C0110,Yas Island,Solar Panel Cleaning,Apartment,Pay-per-visit,306.54,146.36
+J00369,2025-10-11,C0069,Saadiyat Island,Landscaping,Villa,Annual Contract,383.18,263.32
+J00370,2025-10-12,C0206,Yas Island,AC Maintenance,Apartment,Pay-per-visit,407.49,261.43
+J00371,2025-10-12,C0505,Yas Island,Electrical,Apartment,Pay-per-visit,259.98,144.38
+J00372,2025-10-12,C0130,Khalifa City,Water-Saving Retrofit,Property Manager,Annual Contract,1369.57,941.07
+J00373,2025-10-13,C0252,Yas Island,Pest Control,Villa,Annual Contract,469.68,240.18
+J00374,2025-10-14,C0234,Khalifa City,Solar Panel Cleaning,Apartment,Annual Contract,334.21,170.31
+J00375,2025-10-15,C0019,Mohammed Bin Zayed City,Pest Control,Apartment,Pay-per-visit,218.88,112.83
+J00376,2025-10-15,C0131,Al Reem Island,Electrical,Property Manager,Annual Contract,537.4,303.58
+J00377,2025-10-15,C0146,Al Reem Island,Deep Cleaning,Property Manager,Annual Contract,831.16,526.42
+J00378,2025-10-16,C0386,Al Reem Island,Water-Saving Retrofit,Property Manager,Annual Contract,1618.97,1082.44
+J00379,2025-10-16,C0483,Mohammed Bin Zayed City,Electrical,Villa,Pay-per-visit,253.81,137.71
+J00380,2025-10-17,C0473,Khalifa City,Water-Saving Retrofit,Villa,Pay-per-visit,1329.96,927.75
+J00381,2025-10-17,C0390,Al Reem Island,Landscaping,Apartment,Pay-per-visit,406.7,270.02
+J00382,2025-10-18,C0122,Al Raha,Electrical,Villa,Annual Contract,306.54,161.96
+J00383,2025-10-18,C0190,Saadiyat Island,Deep Cleaning,Apartment,Annual Contract,1045.02,672.23
+J00384,2025-10-19,C0037,Khalifa City,AC Maintenance,Apartment,Annual Contract,276.48,142.29
+J00385,2025-10-20,C0418,Corniche / City Center,Pest Control,Apartment,Annual Contract,223.13,109.52
+J00386,2025-10-20,C0355,Corniche / City Center,Solar Panel Cleaning,Apartment,Pay-per-visit,313.99,175.63
+J00387,2025-10-21,C0286,Saadiyat Island,Deep Cleaning,Apartment,Pay-per-visit,768.59,540.13
+J00388,2025-10-22,C0186,Al Reem Island,Solar Panel Cleaning,Apartment,Annual Contract,142.64,70.91
+J00389,2025-10-24,C0388,Al Mushrif,Plumbing,Villa,Annual Contract,217.08,135.14
+J00390,2025-10-24,C0043,Al Reem Island,AC Maintenance,Villa,Annual Contract,506.5,304.59
+J00391,2025-10-24,C0243,Mohammed Bin Zayed City,Deep Cleaning,Villa,Pay-per-visit,630.54,392.52
+J00392,2025-10-24,C0385,Corniche / City Center,Pest Control,Property Manager,Annual Contract,550.84,282.2
+J00393,2025-10-25,C0122,Al Raha,Pest Control,Villa,Annual Contract,470.85,259.73
+J00394,2025-10-25,C0012,Mohammed Bin Zayed City,Plumbing,Villa,Pay-per-visit,92.71,51.81
+J00395,2025-10-26,C0519,Khalifa City,Landscaping,Apartment,Pay-per-visit,346.5,202.71
+J00396,2025-10-26,C0037,Khalifa City,Landscaping,Apartment,Annual Contract,466.46,294.67
+J00397,2025-10-27,C0341,Mussafah,Pest Control,Property Manager,Annual Contract,300.4,180.55
+J00398,2025-10-27,C0440,Mohammed Bin Zayed City,Water-Saving Retrofit,Villa,Pay-per-visit,867.42,578.99
+J00399,2025-10-28,C0313,Khalifa City,Plumbing,Apartment,Pay-per-visit,149.72,90.29
+J00400,2025-10-29,C0078,Khalifa City,Plumbing,Property Manager,Annual Contract,271.06,160.92
+J00401,2025-10-29,C0252,Yas Island,Water-Saving Retrofit,Villa,Annual Contract,984.46,717.38
+J00402,2025-10-29,C0345,Yas Island,Water-Saving Retrofit,Villa,Annual Contract,1372.99,944.87
+J00403,2025-10-29,C0399,Mohammed Bin Zayed City,Electrical,Villa,Pay-per-visit,341.01,178.7
+J00404,2025-10-31,C0032,Al Reem Island,Pest Control,Apartment,Pay-per-visit,344.47,173.92
+J00405,2025-10-31,C0043,Al Reem Island,Deep Cleaning,Villa,Annual Contract,518.98,345.48
+J00406,2025-11-01,C0122,Al Raha,Landscaping,Villa,Annual Contract,570.94,392.67
+J00407,2025-11-01,C0491,Mohammed Bin Zayed City,AC Maintenance,Villa,Annual Contract,303.3,178.96
+J00408,2025-11-02,C0118,Khalifa City,Water-Saving Retrofit,Apartment,Pay-per-visit,769.02,555.51
+J00409,2025-11-02,C0049,Saadiyat Island,Deep Cleaning,Villa,Annual Contract,645.77,371.07
+J00410,2025-11-02,C0130,Khalifa City,Water-Saving Retrofit,Property Manager,Annual Contract,1456.1,842.21
+J00411,2025-11-02,C0333,Al Mushrif,Plumbing,Apartment,Pay-per-visit,231.27,118.18
+J00412,2025-11-02,C0071,Yas Island,Water-Saving Retrofit,Apartment,Pay-per-visit,1051.69,756.6
+J00413,2025-11-03,C0104,Mohammed Bin Zayed City,Deep Cleaning,Property Manager,Annual Contract,1018.8,612.34
+J00414,2025-11-03,C0054,Al Raha,Solar Panel Cleaning,Villa,Pay-per-visit,248.96,138.99
+J00415,2025-11-03,C0111,Mohammed Bin Zayed City,Electrical,Property Manager,Annual Contract,432.3,234.05
+J00416,2025-11-04,C0485,Al Reem Island,Landscaping,Property Manager,Pay-per-visit,625.26,381.15
+J00417,2025-11-05,C0453,Yas Island,Pest Control,Villa,Pay-per-visit,221.15,114.51
+J00418,2025-11-05,C0236,Al Reem Island,Deep Cleaning,Villa,Annual Contract,715.51,441.17
+J00419,2025-11-05,C0222,Mohammed Bin Zayed City,Plumbing,Apartment,Pay-per-visit,221.29,118.69
+J00420,2025-11-06,C0263,Khalifa City,Pest Control,Villa,Pay-per-visit,335.9,157.55
+J00421,2025-11-06,C0296,Al Raha,Landscaping,Villa,Annual Contract,445.82,267.45
+J00422,2025-11-06,C0335,Mohammed Bin Zayed City,Plumbing,Villa,Annual Contract,163.58,89.98
+J00423,2025-11-07,C0137,Al Raha,Landscaping,Villa,Annual Contract,300.01,187.73
+J00424,2025-11-08,C0223,Al Mushrif,Plumbing,Villa,Annual Contract,181.54,105.45
+J00425,2025-11-09,C0173,Al Reem Island,AC Maintenance,Villa,Pay-per-visit,525.91,294.72
+J00426,2025-11-09,C0005,Yas Island,Water-Saving Retrofit,Apartment,Annual Contract,1328.28,979.83
+J00427,2025-11-09,C0367,Mussafah,Landscaping,Villa,Annual Contract,375.28,246.57
+J00428,2025-11-10,C0046,Yas Island,Electrical,Apartment,Pay-per-visit,449.53,207.9
+J00429,2025-11-12,C0192,Yas Island,Deep Cleaning,Villa,Pay-per-visit,499.13,280.49
+J00430,2025-11-12,C0462,Khalifa City,Landscaping,Property Manager,Annual Contract,729.16,437.02
+J00431,2025-11-13,C0263,Khalifa City,Solar Panel Cleaning,Villa,Pay-per-visit,232.76,125.38
+J00432,2025-11-14,C0104,Mohammed Bin Zayed City,Pest Control,Property Manager,Annual Contract,283.7,153.93
+J00433,2025-11-14,C0242,Mohammed Bin Zayed City,AC Maintenance,Apartment,Annual Contract,178.84,122.63
+J00434,2025-11-15,C0432,Al Raha,Deep Cleaning,Apartment,Pay-per-visit,844.24,477.04
+J00435,2025-11-15,C0323,Al Raha,Solar Panel Cleaning,Villa,Pay-per-visit,390.97,196.98
+J00436,2025-11-15,C0437,Mussafah,Landscaping,Property Manager,Annual Contract,571.44,387.77
+J00437,2025-11-15,C0471,Yas Island,Landscaping,Villa,Pay-per-visit,722.39,448.43
+J00438,2025-11-15,C0336,Saadiyat Island,Pest Control,Property Manager,Annual Contract,535.03,238.86
+J00439,2025-11-16,C0414,Al Reem Island,Water-Saving Retrofit,Villa,Pay-per-visit,1115.43,771.61
+J00440,2025-11-16,C0092,Khalifa City,AC Maintenance,Apartment,Pay-per-visit,273.43,146.59
+J00441,2025-11-16,C0222,Mohammed Bin Zayed City,Water-Saving Retrofit,Apartment,Pay-per-visit,966.58,710.07
+J00442,2025-11-17,C0151,Mussafah,Plumbing,Apartment,Pay-per-visit,196.14,125.21
+J00443,2025-11-18,C0099,Mohammed Bin Zayed City,Pest Control,Villa,Pay-per-visit,295.46,128.16
+J00444,2025-11-20,C0300,Al Reem Island,Plumbing,Apartment,Annual Contract,323.83,180.31
+J00445,2025-11-20,C0238,Khalifa City,Water-Saving Retrofit,Apartment,Pay-per-visit,702.54,486.71
+J00446,2025-11-20,C0386,Al Reem Island,Deep Cleaning,Property Manager,Annual Contract,1090.17,673.19
+J00447,2025-11-21,C0483,Mohammed Bin Zayed City,Plumbing,Villa,Pay-per-visit,352.83,204.93
+J00448,2025-11-21,C0037,Khalifa City,Deep Cleaning,Apartment,Annual Contract,726.94,410.37
+J00449,2025-11-22,C0408,Yas Island,Water-Saving Retrofit,Apartment,Annual Contract,1386.58,944.05
+J00450,2025-11-22,C0456,Al Reem Island,Plumbing,Villa,Pay-per-visit,313.9,194.17
+J00451,2025-11-22,C0412,Al Mushrif,Landscaping,Villa,Annual Contract,431.33,286.16
+J00452,2025-11-22,C0262,Mussafah,Plumbing,Villa,Pay-per-visit,280.62,135.72
+J00453,2025-11-24,C0064,Yas Island,AC Maintenance,Villa,Annual Contract,337.73,179.79
+J00454,2025-11-24,C0241,Mohammed Bin Zayed City,Water-Saving Retrofit,Apartment,Pay-per-visit,851.65,542.44
+J00455,2025-11-24,C0102,Saadiyat Island,Deep Cleaning,Villa,Pay-per-visit,786.48,495.75
+J00456,2025-11-25,C0402,Khalifa City,Electrical,Apartment,Annual Contract,291.62,194.56
+J00457,2025-11-25,C0271,Mohammed Bin Zayed City,Landscaping,Apartment,Annual Contract,262.87,175.55
+J00458,2025-11-26,C0096,Mohammed Bin Zayed City,Deep Cleaning,Villa,Annual Contract,476.99,323.69
+J00459,2025-11-27,C0256,Al Reem Island,Electrical,Apartment,Pay-per-visit,248.3,126.56
+J00460,2025-11-27,C0254,Saadiyat Island,Deep Cleaning,Apartment,Annual Contract,565.99,408.71
+J00461,2025-11-27,C0047,Khalifa City,Landscaping,Apartment,Pay-per-visit,296.54,208.23
+J00462,2025-11-28,C0420,Yas Island,Deep Cleaning,Property Manager,Annual Contract,870.72,542.44
+J00463,2025-11-29,C0263,Khalifa City,Electrical,Villa,Pay-per-visit,275.27,177.62
+J00464,2025-11-29,C0340,Al Mushrif,Water-Saving Retrofit,Apartment,Annual Contract,798.33,536.84
+J00465,2025-11-29,C0211,Yas Island,Solar Panel Cleaning,Villa,Annual Contract,260.92,137.07
+J00466,2025-11-29,C0208,Yas Island,Electrical,Property Manager,Annual Contract,383.89,177.38
+J00467,2025-11-30,C0069,Saadiyat Island,Solar Panel Cleaning,Villa,Annual Contract,337.65,156.7
+J00468,2025-11-30,C0468,Mohammed Bin Zayed City,Electrical,Apartment,Annual Contract,267.57,151.99
+J00469,2025-11-30,C0363,Khalifa City,Electrical,Villa,Annual Contract,207.88,105.63
+J00470,2025-11-30,C0419,Corniche / City Center,Water-Saving Retrofit,Villa,Pay-per-visit,813.1,577.67
+J00471,2025-12-01,C0149,Al Reem Island,Landscaping,Apartment,Pay-per-visit,360.47,211.04
+J00472,2025-12-02,C0393,Corniche / City Center,Solar Panel Cleaning,Villa,Pay-per-visit,278.72,148.51
+J00473,2025-12-02,C0349,Al Mushrif,Plumbing,Villa,Pay-per-visit,236.64,128.78
+J00474,2025-12-03,C0421,Saadiyat Island,Deep Cleaning,Villa,Pay-per-visit,575.99,336.42
+J00475,2025-12-03,C0146,Al Reem Island,Water-Saving Retrofit,Property Manager,Annual Contract,1533.97,1036.37
+J00476,2025-12-04,C0242,Mohammed Bin Zayed City,Water-Saving Retrofit,Apartment,Annual Contract,599.13,399.44
+J00477,2025-12-06,C0102,Saadiyat Island,Solar Panel Cleaning,Villa,Pay-per-visit,239.36,118.04
+J00478,2025-12-06,C0355,Corniche / City Center,Deep Cleaning,Apartment,Pay-per-visit,629.81,378.24
+J00479,2025-12-06,C0296,Al Raha,Plumbing,Villa,Annual Contract,370.36,210.07
+J00480,2025-12-07,C0277,Mussafah,Landscaping,Apartment,Pay-per-visit,221.66,151.12
+J00481,2025-12-07,C0365,Yas Island,Landscaping,Property Manager,Annual Contract,855.32,564.49
+J00482,2025-12-07,C0348,Al Raha,Water-Saving Retrofit,Villa,Pay-per-visit,1031.65,752.1
+J00483,2025-12-07,C0064,Yas Island,Water-Saving Retrofit,Villa,Annual Contract,1143.57,720.47
+J00484,2025-12-08,C0186,Al Reem Island,Landscaping,Apartment,Annual Contract,256.35,175.36
+J00485,2025-12-09,C0437,Mussafah,Solar Panel Cleaning,Property Manager,Annual Contract,357.25,176.78
+J00486,2025-12-09,C0107,Al Raha,Plumbing,Villa,Pay-per-visit,262.54,159.78
+J00487,2025-12-09,C0014,Mohammed Bin Zayed City,AC Maintenance,Villa,Pay-per-visit,496.37,307.88
+J00488,2025-12-09,C0236,Al Reem Island,Water-Saving Retrofit,Villa,Annual Contract,722.53,505.5
+J00489,2025-12-10,C0475,Yas Island,Landscaping,Property Manager,Annual Contract,503.77,342.83
+J00490,2025-12-11,C0168,Corniche / City Center,Landscaping,Apartment,Annual Contract,339.56,232.07
+J00491,2025-12-12,C0318,Saadiyat Island,Water-Saving Retrofit,Apartment,Pay-per-visit,1155.48,831.89
+J00492,2025-12-12,C0434,Khalifa City,Plumbing,Villa,Pay-per-visit,303.57,182.15
+J00493,2025-12-12,C0310,Saadiyat Island,Plumbing,Villa,Annual Contract,253.75,157.23
+J00494,2025-12-13,C0117,Yas Island,Plumbing,Villa,Pay-per-visit,174.99,96.38
+J00495,2025-12-13,C0006,Mussafah,Landscaping,Villa,Pay-per-visit,346.13,214.57
+J00496,2025-12-13,C0410,Al Raha,Water-Saving Retrofit,Villa,Pay-per-visit,1437.21,990.45
+J00497,2025-12-13,C0133,Khalifa City,Water-Saving Retrofit,Property Manager,Annual Contract,1460.2,1041.74
+J00498,2025-12-14,C0386,Al Reem Island,Water-Saving Retrofit,Property Manager,Annual Contract,1676.95,1165.7
+J00499,2025-12-14,C0336,Saadiyat Island,Deep Cleaning,Property Manager,Annual Contract,1686.6,1137.19
+J00500,2025-12-15,C0186,Al Reem Island,Water-Saving Retrofit,Apartment,Annual Contract,689.31,429.03
+J00501,2025-12-15,C0295,Mohammed Bin Zayed City,Plumbing,Villa,Annual Contract,126.29,74.53
+J00502,2025-12-16,C0088,Al Reem Island,Plumbing,Apartment,Pay-per-visit,236.73,128.85
+J00503,2025-12-16,C0156,Saadiyat Island,Water-Saving Retrofit,Apartment,Pay-per-visit,1336.85,863.18
+J00504,2025-12-16,C0300,Al Reem Island,AC Maintenance,Apartment,Annual Contract,294.2,173.48
+J00505,2025-12-16,C0079,Yas Island,Plumbing,Villa,Annual Contract,255.89,161.18
+J00506,2025-12-16,C0066,Saadiyat Island,AC Maintenance,Villa,Pay-per-visit,589.13,333.73
+J00507,2025-12-17,C0359,Mohammed Bin Zayed City,Deep Cleaning,Apartment,Pay-per-visit,717.77,450.71
+J00508,2025-12-17,C0258,Mohammed Bin Zayed City,Landscaping,Villa,Pay-per-visit,350.41,224.21
+J00509,2025-12-17,C0407,Mohammed Bin Zayed City,Pest Control,Apartment,Annual Contract,162.16,76.79
+J00510,2025-12-17,C0044,Al Reem Island,Landscaping,Apartment,Pay-per-visit,476.32,316.36
+J00511,2025-12-17,C0387,Yas Island,Landscaping,Apartment,Pay-per-visit,484.67,304.57
+J00512,2025-12-17,C0475,Yas Island,Electrical,Property Manager,Annual Contract,265.84,145.05
+J00513,2025-12-18,C0450,Khalifa City,AC Maintenance,Apartment,Annual Contract,241.66,137.3
+J00514,2025-12-18,C0168,Corniche / City Center,Plumbing,Apartment,Annual Contract,153.34,104.7
+J00515,2025-12-19,C0115,Mohammed Bin Zayed City,Electrical,Villa,Pay-per-visit,211.23,110.07
+J00516,2025-12-20,C0102,Saadiyat Island,Water-Saving Retrofit,Villa,Pay-per-visit,1443.09,1031.34
+J00517,2025-12-22,C0313,Khalifa City,Plumbing,Apartment,Pay-per-visit,186.4,107.38
+J00518,2025-12-22,C0119,Mohammed Bin Zayed City,Landscaping,Villa,Annual Contract,464.01,266.37
+J00519,2025-12-22,C0130,Khalifa City,Water-Saving Retrofit,Property Manager,Annual Contract,913.19,655.56
+J00520,2025-12-23,C0479,Al Raha,Landscaping,Apartment,Pay-per-visit,325.76,233.91
+J00521,2025-12-23,C0328,Yas Island,Plumbing,Villa,Pay-per-visit,232.82,120.0
+J00522,2025-12-23,C0392,Yas Island,Landscaping,Apartment,Pay-per-visit,374.87,257.33
+J00523,2025-12-23,C0064,Yas Island,Landscaping,Villa,Annual Contract,569.22,361.0
+J00524,2025-12-24,C0376,Mussafah,Solar Panel Cleaning,Villa,Pay-per-visit,344.25,179.53
+J00525,2025-12-24,C0407,Mohammed Bin Zayed City,Landscaping,Apartment,Annual Contract,336.86,220.82
+J00526,2025-12-24,C0480,Yas Island,Electrical,Apartment,Pay-per-visit,375.01,180.39
+J00527,2025-12-24,C0235,Mohammed Bin Zayed City,Landscaping,Apartment,Pay-per-visit,342.37,217.09
+J00528,2025-12-25,C0493,Al Reem Island,Landscaping,Villa,Pay-per-visit,480.06,300.85
+J00529,2025-12-26,C0343,Khalifa City,Deep Cleaning,Property Manager,Annual Contract,632.39,380.23
+J00530,2025-12-26,C0267,Mohammed Bin Zayed City,Solar Panel Cleaning,Villa,Annual Contract,360.32,171.95
+J00531,2025-12-26,C0292,Mohammed Bin Zayed City,Deep Cleaning,Apartment,Pay-per-visit,445.18,274.41
+J00532,2025-12-26,C0231,Al Reem Island,Solar Panel Cleaning,Villa,Annual Contract,294.76,133.8
+J00533,2025-12-27,C0274,Yas Island,Deep Cleaning,Property Manager,Annual Contract,1194.3,687.25
+J00534,2025-12-27,C0248,Yas Island,Plumbing,Villa,Annual Contract,282.59,167.54
+J00535,2025-12-27,C0281,Corniche / City Center,Landscaping,Villa,Pay-per-visit,350.03,242.31
+J00536,2025-12-28,C0155,Saadiyat Island,Deep Cleaning,Apartment,Annual Contract,1076.44,655.28
+J00537,2025-12-30,C0259,Mohammed Bin Zayed City,Landscaping,Apartment,Pay-per-visit,394.44,264.19
+J00538,2025-12-30,C0514,Saadiyat Island,Plumbing,Villa,Pay-per-visit,388.9,240.64
+J00539,2025-12-30,C0439,Al Raha,Water-Saving Retrofit,Property Manager,Annual Contract,2266.37,1521.68
+J00540,2025-12-30,C0130,Khalifa City,Solar Panel Cleaning,Property Manager,Annual Contract,288.44,134.01
+J00541,2025-12-30,C0070,Al Raha,Water-Saving Retrofit,Apartment,Annual Contract,931.2,633.74
+J00542,2025-12-30,C0331,Khalifa City,Deep Cleaning,Apartment,Pay-per-visit,656.0,407.41
+J00543,2025-12-30,C0092,Khalifa City,Deep Cleaning,Apartment,Pay-per-visit,807.07,483.7
+J00544,2025-12-30,C0199,Yas Island,Electrical,Property Manager,Annual Contract,399.55,212.62
+J00545,2025-12-31,C0407,Mohammed Bin Zayed City,Plumbing,Apartment,Annual Contract,170.41,104.58
+J00546,2025-12-31,C0297,Saadiyat Island,Solar Panel Cleaning,Villa,Pay-per-visit,362.39,178.32
+J00547,2026-01-01,C0503,Yas Island,Plumbing,Apartment,Pay-per-visit,387.05,265.48
+J00548,2026-01-01,C0502,Saadiyat Island,Pest Control,Property Manager,Annual Contract,513.8,276.04
+J00549,2026-01-01,C0009,Mohammed Bin Zayed City,Landscaping,Apartment,Pay-per-visit,429.94,294.49
+J00550,2026-01-02,C0208,Yas Island,Water-Saving Retrofit,Property Manager,Annual Contract,1761.62,1167.14
+J00551,2026-01-02,C0119,Mohammed Bin Zayed City,Solar Panel Cleaning,Villa,Annual Contract,274.17,149.28
+J00552,2026-01-04,C0046,Yas Island,AC Maintenance,Apartment,Pay-per-visit,411.47,215.97
+J00553,2026-01-04,C0362,Mohammed Bin Zayed City,Water-Saving Retrofit,Property Manager,Pay-per-visit,1140.79,809.6
+J00554,2026-01-04,C0329,Khalifa City,Landscaping,Apartment,Pay-per-visit,340.61,210.58
+J00555,2026-01-04,C0402,Khalifa City,Solar Panel Cleaning,Apartment,Annual Contract,237.43,126.26
+J00556,2026-01-05,C0088,Al Reem Island,Pest Control,Apartment,Pay-per-visit,214.5,95.11
+J00557,2026-01-05,C0135,Mohammed Bin Zayed City,Deep Cleaning,Villa,Pay-per-visit,391.55,252.97
+J00558,2026-01-05,C0367,Mussafah,Landscaping,Villa,Annual Contract,368.67,243.06
+J00559,2026-01-06,C0345,Yas Island,Solar Panel Cleaning,Villa,Annual Contract,395.21,225.14
+J00560,2026-01-06,C0433,Mohammed Bin Zayed City,Deep Cleaning,Property Manager,Annual Contract,768.34,454.31
+J00561,2026-01-06,C0439,Al Raha,Water-Saving Retrofit,Property Manager,Annual Contract,2003.11,1510.15
+J00562,2026-01-06,C0062,Yas Island,Electrical,Villa,Pay-per-visit,326.01,167.48
+J00563,2026-01-06,C0199,Yas Island,Landscaping,Property Manager,Annual Contract,1041.82,710.88
+J00564,2026-01-06,C0417,Khalifa City,Plumbing,Villa,Pay-per-visit,301.56,182.04
+J00565,2026-01-06,C0043,Al Reem Island,Landscaping,Villa,Annual Contract,409.89,283.8
+J00566,2026-01-07,C0340,Al Mushrif,Electrical,Apartment,Annual Contract,253.74,129.55
+J00567,2026-01-07,C0443,Mohammed Bin Zayed City,Deep Cleaning,Property Manager,Pay-per-visit,958.1,537.92
+J00568,2026-01-08,C0407,Mohammed Bin Zayed City,Plumbing,Apartment,Annual Contract,157.86,89.73
+J00569,2026-01-08,C0335,Mohammed Bin Zayed City,Landscaping,Villa,Annual Contract,411.12,267.98
+J00570,2026-01-09,C0016,Khalifa City,Water-Saving Retrofit,Apartment,Annual Contract,654.05,431.57
+J00571,2026-01-09,C0208,Yas Island,Landscaping,Property Manager,Annual Contract,782.27,489.0
+J00572,2026-01-09,C0290,Saadiyat Island,Solar Panel Cleaning,Apartment,Pay-per-visit,403.93,217.82
+J00573,2026-01-10,C0330,Mohammed Bin Zayed City,Plumbing,Apartment,Pay-per-visit,202.1,112.67
+J00574,2026-01-10,C0302,Al Reem Island,Landscaping,Apartment,Pay-per-visit,447.33,290.21
+J00575,2026-01-10,C0061,Yas Island,Plumbing,Apartment,Pay-per-visit,271.9,152.74
+J00576,2026-01-11,C0198,Mohammed Bin Zayed City,Water-Saving Retrofit,Property Manager,Annual Contract,889.95,564.85
+J00577,2026-01-12,C0034,Corniche / City Center,Landscaping,Property Manager,Annual Contract,460.02,309.17
+J00578,2026-01-12,C0046,Yas Island,Water-Saving Retrofit,Apartment,Pay-per-visit,1267.62,907.45
+J00579,2026-01-13,C0475,Yas Island,Pest Control,Property Manager,Annual Contract,370.28,184.76
+J00580,2026-01-14,C0033,Khalifa City,Solar Panel Cleaning,Apartment,Pay-per-visit,238.35,104.14
+J00581,2026-01-14,C0111,Mohammed Bin Zayed City,Electrical,Property Manager,Annual Contract,386.63,213.81
+J00582,2026-01-15,C0407,Mohammed Bin Zayed City,Water-Saving Retrofit,Apartment,Annual Contract,787.58,542.04
+J00583,2026-01-15,C0439,Al Raha,Solar Panel Cleaning,Property Manager,Annual Contract,352.25,193.73
+J00584,2026-01-15,C0234,Khalifa City,Deep Cleaning,Apartment,Annual Contract,460.52,257.27
+J00585,2026-01-16,C0208,Yas Island,Landscaping,Property Manager,Annual Contract,818.05,478.16
+J00586,2026-01-16,C0442,Saadiyat Island,Water-Saving Retrofit,Villa,Pay-per-visit,1604.37,1118.07
+J00587,2026-01-16,C0132,Saadiyat Island,Landscaping,Apartment,Annual Contract,543.46,387.82
+J00588,2026-01-16,C0256,Al Reem Island,Pest Control,Apartment,Pay-per-visit,274.79,134.97
+J00589,2026-01-17,C0327,Yas Island,Electrical,Apartment,Annual Contract,216.5,119.07
+J00590,2026-01-18,C0247,Mohammed Bin Zayed City,Plumbing,Villa,Annual Contract,171.51,99.79
+J00591,2026-01-18,C0452,Saadiyat Island,Water-Saving Retrofit,Apartment,Pay-per-visit,1012.76,682.19
+J00592,2026-01-19,C0023,Saadiyat Island,Solar Panel Cleaning,Property Manager,Annual Contract,546.14,254.23
+J00593,2026-01-19,C0230,Al Reem Island,Solar Panel Cleaning,Villa,Pay-per-visit,528.03,310.58
+J00594,2026-01-19,C0119,Mohammed Bin Zayed City,Landscaping,Villa,Annual Contract,355.36,224.4
+J00595,2026-01-20,C0424,Mohammed Bin Zayed City,AC Maintenance,Villa,Pay-per-visit,469.68,308.14
+J00596,2026-01-21,C0044,Al Reem Island,Plumbing,Apartment,Pay-per-visit,259.15,174.58
+J00597,2026-01-22,C0199,Yas Island,Pest Control,Property Manager,Annual Contract,534.0,286.22
+J00598,2026-01-22,C0393,Corniche / City Center,Water-Saving Retrofit,Villa,Pay-per-visit,1354.84,883.09
+J00599,2026-01-22,C0242,Mohammed Bin Zayed City,Plumbing,Apartment,Annual Contract,166.21,96.55
+J00600,2026-01-22,C0475,Yas Island,Deep Cleaning,Property Manager,Annual Contract,951.07,572.18
+J00601,2026-01-23,C0296,Al Raha,Landscaping,Villa,Annual Contract,458.76,266.13
+J00602,2026-01-23,C0069,Saadiyat Island,Landscaping,Villa,Annual Contract,273.62,186.09
+J00603,2026-01-23,C0345,Yas Island,Solar Panel Cleaning,Villa,Annual Contract,452.2,227.02
+J00604,2026-01-24,C0295,Mohammed Bin Zayed City,Deep Cleaning,Villa,Annual Contract,432.2,252.99
+J00605,2026-01-24,C0363,Khalifa City,Deep Cleaning,Villa,Annual Contract,1032.69,707.98
+J00606,2026-01-24,C0255,Mohammed Bin Zayed City,Electrical,Apartment,Pay-per-visit,251.76,140.16
+J00607,2026-01-24,C0113,Al Raha,Landscaping,Apartment,Pay-per-visit,704.42,438.86
+J00608,2026-01-26,C0026,Mohammed Bin Zayed City,Solar Panel Cleaning,Villa,Annual Contract,269.55,154.65
+J00609,2026-01-26,C0034,Corniche / City Center,Landscaping,Property Manager,Annual Contract,419.75,265.04
+J00610,2026-01-26,C0413,Yas Island,Landscaping,Villa,Pay-per-visit,651.47,480.48
+J00611,2026-01-27,C0424,Mohammed Bin Zayed City,AC Maintenance,Villa,Pay-per-visit,304.81,182.33
+J00612,2026-01-28,C0290,Saadiyat Island,Landscaping,Apartment,Pay-per-visit,379.34,266.61
+J00613,2026-01-28,C0267,Mohammed Bin Zayed City,Landscaping,Villa,Annual Contract,353.81,212.18
+J00614,2026-01-29,C0242,Mohammed Bin Zayed City,Landscaping,Apartment,Annual Contract,221.94,147.92
+J00615,2026-01-29,C0403,Mohammed Bin Zayed City,Water-Saving Retrofit,Villa,Pay-per-visit,500.55,332.67
+J00616,2026-01-29,C0284,Al Mushrif,Water-Saving Retrofit,Apartment,Pay-per-visit,890.05,644.53
+J00617,2026-01-29,C0297,Saadiyat Island,Electrical,Villa,Pay-per-visit,298.4,151.19
+J00618,2026-01-30,C0177,Al Reem Island,Deep Cleaning,Apartment,Pay-per-visit,876.81,538.16
+J00619,2026-01-30,C0130,Khalifa City,Deep Cleaning,Property Manager,Annual Contract,816.42,506.99
+J00620,2026-01-30,C0211,Yas Island,Deep Cleaning,Villa,Annual Contract,871.17,541.37
+J00621,2026-01-31,C0227,Saadiyat Island,Electrical,Apartment,Pay-per-visit,259.78,148.5
+J00622,2026-01-31,C0001,Yas Island,Solar Panel Cleaning,Villa,Pay-per-visit,318.32,157.63
+J00623,2026-01-31,C0381,Khalifa City,Plumbing,Villa,Annual Contract,194.16,106.78
+J00624,2026-02-01,C0184,Saadiyat Island,Electrical,Apartment,Pay-per-visit,299.93,149.8
+J00625,2026-02-01,C0212,Mohammed Bin Zayed City,Landscaping,Property Manager,Annual Contract,645.89,435.79
+J00626,2026-02-01,C0186,Al Reem Island,Landscaping,Apartment,Annual Contract,326.34,214.67
+J00627,2026-02-02,C0208,Yas Island,Pest Control,Property Manager,Annual Contract,607.84,293.11
+J00628,2026-02-03,C0210,Al Reem Island,Solar Panel Cleaning,Property Manager,Annual Contract,253.36,128.05
+J00629,2026-02-03,C0395,Corniche / City Center,Landscaping,Villa,Pay-per-visit,386.66,250.33
+J00630,2026-02-04,C0509,Al Raha,Deep Cleaning,Villa,Pay-per-visit,860.61,511.73
+J00631,2026-02-04,C0049,Saadiyat Island,Water-Saving Retrofit,Villa,Annual Contract,1216.29,792.77
+J00632,2026-02-04,C0040,Al Reem Island,Water-Saving Retrofit,Property Manager,Annual Contract,1322.71,913.87
+J00633,2026-02-05,C0409,Al Reem Island,Landscaping,Villa,Annual Contract,490.66,341.51
+J00634,2026-02-05,C0379,Yas Island,Landscaping,Villa,Annual Contract,363.21,231.16
+J00635,2026-02-06,C0177,Al Reem Island,Landscaping,Apartment,Pay-per-visit,544.5,309.84
+J00636,2026-02-06,C0408,Yas Island,Plumbing,Apartment,Annual Contract,338.31,165.03
+J00637,2026-02-06,C0336,Saadiyat Island,Plumbing,Property Manager,Annual Contract,374.47,193.88
+J00638,2026-02-06,C0052,Al Mushrif,Plumbing,Villa,Annual Contract,196.79,101.39
+J00639,2026-02-06,C0392,Yas Island,Plumbing,Apartment,Pay-per-visit,310.76,173.37
+J00640,2026-02-07,C0016,Khalifa City,Electrical,Apartment,Annual Contract,208.81,114.51
+J00641,2026-02-07,C0014,Mohammed Bin Zayed City,Deep Cleaning,Villa,Pay-per-visit,709.14,428.53
+J00642,2026-02-07,C0381,Khalifa City,Water-Saving Retrofit,Villa,Annual Contract,759.92,592.48
+J00643,2026-02-07,C0407,Mohammed Bin Zayed City,Landscaping,Apartment,Annual Contract,219.23,131.77
+J00644,2026-02-08,C0494,Saadiyat Island,Plumbing,Apartment,Pay-per-visit,503.59,289.43
+J00645,2026-02-08,C0284,Al Mushrif,Plumbing,Apartment,Pay-per-visit,161.42,98.94
+J00646,2026-02-09,C0237,Yas Island,AC Maintenance,Apartment,Pay-per-visit,672.8,439.11
+J00647,2026-02-09,C0470,Mohammed Bin Zayed City,Landscaping,Villa,Pay-per-visit,398.45,256.13
+J00648,2026-02-09,C0503,Yas Island,Electrical,Apartment,Pay-per-visit,234.61,137.88
+J00649,2026-02-09,C0415,Saadiyat Island,Deep Cleaning,Property Manager,Pay-per-visit,993.1,609.71
+J00650,2026-02-10,C0298,Yas Island,Electrical,Property Manager,Annual Contract,502.51,255.16
+J00651,2026-02-10,C0039,Al Mushrif,Water-Saving Retrofit,Apartment,Annual Contract,844.84,591.28
+J00652,2026-02-10,C0111,Mohammed Bin Zayed City,Water-Saving Retrofit,Property Manager,Annual Contract,1019.16,658.48
+J00653,2026-02-11,C0386,Al Reem Island,Water-Saving Retrofit,Property Manager,Annual Contract,1426.4,934.06
+J00654,2026-02-11,C0477,Khalifa City,Solar Panel Cleaning,Villa,Pay-per-visit,216.92,116.8
+J00655,2026-02-12,C0468,Mohammed Bin Zayed City,Pest Control,Apartment,Annual Contract,303.87,143.19
+J00656,2026-02-12,C0192,Yas Island,Landscaping,Villa,Pay-per-visit,660.45,423.2
+J00657,2026-02-12,C0034,Corniche / City Center,Electrical,Property Manager,Annual Contract,264.25,135.22
+J00658,2026-02-12,C0158,Al Reem Island,Landscaping,Apartment,Pay-per-visit,460.79,286.95
+J00659,2026-02-12,C0323,Al Raha,Water-Saving Retrofit,Villa,Pay-per-visit,880.78,642.22
+J00660,2026-02-13,C0310,Saadiyat Island,Pest Control,Villa,Annual Contract,344.6,183.51
+J00661,2026-02-13,C0139,Yas Island,AC Maintenance,Apartment,Pay-per-visit,438.68,262.31
+J00662,2026-02-13,C0336,Saadiyat Island,Water-Saving Retrofit,Property Manager,Annual Contract,1117.93,799.0
+J00663,2026-02-14,C0407,Mohammed Bin Zayed City,Plumbing,Apartment,Annual Contract,186.49,95.56
+J00664,2026-02-14,C0402,Khalifa City,Pest Control,Apartment,Annual Contract,172.43,92.05
+J00665,2026-02-14,C0040,Al Reem Island,Landscaping,Property Manager,Annual Contract,487.66,348.01
+J00666,2026-02-14,C0381,Khalifa City,Pest Control,Villa,Annual Contract,189.2,85.76
+J00667,2026-02-15,C0137,Al Raha,Pest Control,Villa,Annual Contract,214.05,106.01
+J00668,2026-02-16,C0502,Saadiyat Island,Plumbing,Property Manager,Annual Contract,493.22,269.33
+J00669,2026-02-17,C0247,Mohammed Bin Zayed City,Water-Saving Retrofit,Villa,Annual Contract,972.95,695.34
+J00670,2026-02-17,C0362,Mohammed Bin Zayed City,Solar Panel Cleaning,Property Manager,Pay-per-visit,403.76,178.02
+J00671,2026-02-18,C0304,Mohammed Bin Zayed City,Pest Control,Property Manager,Annual Contract,311.02,143.59
+J00672,2026-02-18,C0395,Corniche / City Center,Solar Panel Cleaning,Villa,Pay-per-visit,317.52,150.33
+J00673,2026-02-18,C0023,Saadiyat Island,Plumbing,Property Manager,Annual Contract,238.65,139.29
+J00674,2026-02-19,C0118,Khalifa City,Deep Cleaning,Apartment,Pay-per-visit,850.98,534.63
+J00675,2026-02-19,C0068,Yas Island,Electrical,Property Manager,Annual Contract,388.29,192.06
+J00676,2026-02-19,C0066,Saadiyat Island,Water-Saving Retrofit,Villa,Pay-per-visit,935.39,604.76
+J00677,2026-02-19,C0055,Mohammed Bin Zayed City,Electrical,Apartment,Pay-per-visit,174.37,106.05
+J00678,2026-02-19,C0026,Mohammed Bin Zayed City,Deep Cleaning,Villa,Annual Contract,488.2,318.05
+J00679,2026-02-20,C0021,Saadiyat Island,Electrical,Villa,Annual Contract,307.55,192.63
+J00680,2026-02-20,C0005,Yas Island,Landscaping,Apartment,Annual Contract,377.17,244.39
+J00681,2026-02-20,C0503,Yas Island,Plumbing,Apartment,Pay-per-visit,299.39,187.62
+J00682,2026-02-20,C0462,Khalifa City,Plumbing,Property Manager,Annual Contract,300.2,163.73
+J00683,2026-02-22,C0512,Al Mushrif,Electrical,Villa,Pay-per-visit,188.4,113.57
+J00684,2026-02-22,C0357,Mohammed Bin Zayed City,Electrical,Property Manager,Annual Contract,219.38,118.64
+J00685,2026-02-22,C0147,Corniche / City Center,Plumbing,Apartment,Pay-per-visit,223.06,126.63
+J00686,2026-02-22,C0243,Mohammed Bin Zayed City,Water-Saving Retrofit,Villa,Pay-per-visit,780.58,529.75
+J00687,2026-02-23,C0496,Saadiyat Island,Solar Panel Cleaning,Apartment,Pay-per-visit,537.11,263.41
+J00688,2026-02-24,C0362,Mohammed Bin Zayed City,Water-Saving Retrofit,Property Manager,Pay-per-visit,1349.73,881.97
+J00689,2026-02-24,C0345,Yas Island,Landscaping,Villa,Annual Contract,431.13,280.72
+J00690,2026-02-25,C0304,Mohammed Bin Zayed City,Electrical,Property Manager,Annual Contract,340.32,172.6
+J00691,2026-02-25,C0436,Al Raha,Solar Panel Cleaning,Property Manager,Annual Contract,382.35,200.85
+J00692,2026-02-25,C0212,Mohammed Bin Zayed City,Pest Control,Property Manager,Annual Contract,387.5,218.02
+J00693,2026-02-25,C0466,Al Reem Island,Solar Panel Cleaning,Apartment,Annual Contract,416.67,218.56
+J00694,2026-02-26,C0180,Mohammed Bin Zayed City,Plumbing,Villa,Pay-per-visit,193.05,125.41
+J00695,2026-02-26,C0068,Yas Island,Water-Saving Retrofit,Property Manager,Annual Contract,1485.29,971.95
+J00696,2026-02-26,C0303,Al Raha,Deep Cleaning,Villa,Pay-per-visit,443.53,266.87
+J00697,2026-02-26,C0409,Al Reem Island,Electrical,Villa,Annual Contract,277.91,150.18
+J00698,2026-02-27,C0052,Al Mushrif,Deep Cleaning,Villa,Annual Contract,649.29,376.98
+J00699,2026-02-28,C0047,Khalifa City,AC Maintenance,Apartment,Pay-per-visit,319.89,183.28
+J00700,2026-03-01,C0480,Yas Island,Plumbing,Apartment,Pay-per-visit,203.53,125.27
+J00701,2026-03-01,C0429,Mohammed Bin Zayed City,Plumbing,Villa,Pay-per-visit,208.37,101.41
+J00702,2026-03-03,C0485,Al Reem Island,Deep Cleaning,Property Manager,Pay-per-visit,609.8,356.69
+J00703,2026-03-03,C0345,Yas Island,Landscaping,Villa,Annual Contract,429.03,265.76
+J00704,2026-03-04,C0373,Al Raha,Water-Saving Retrofit,Apartment,Pay-per-visit,1674.41,1000.05
+J00705,2026-03-04,C0365,Yas Island,Solar Panel Cleaning,Property Manager,Annual Contract,386.96,214.54
+J00706,2026-03-04,C0069,Saadiyat Island,AC Maintenance,Villa,Annual Contract,289.62,195.14
+J00707,2026-03-05,C0495,Yas Island,Solar Panel Cleaning,Villa,Pay-per-visit,305.13,142.66
+J00708,2026-03-05,C0509,Al Raha,AC Maintenance,Villa,Pay-per-visit,340.78,199.9
+J00709,2026-03-05,C0023,Saadiyat Island,Deep Cleaning,Property Manager,Annual Contract,856.63,521.87
+J00710,2026-03-05,C0468,Mohammed Bin Zayed City,Electrical,Apartment,Annual Contract,165.16,86.62
+J00711,2026-03-05,C0405,Yas Island,Water-Saving Retrofit,Apartment,Annual Contract,1075.69,737.19
+J00712,2026-03-05,C0223,Al Mushrif,AC Maintenance,Villa,Annual Contract,393.27,232.89
+J00713,2026-03-06,C0021,Saadiyat Island,Deep Cleaning,Villa,Annual Contract,566.05,320.73
+J00714,2026-03-06,C0348,Al Raha,Solar Panel Cleaning,Villa,Pay-per-visit,323.71,168.11
+J00715,2026-03-06,C0240,Saadiyat Island,Deep Cleaning,Property Manager,Pay-per-visit,1293.55,796.66
+J00716,2026-03-06,C0013,Khalifa City,Plumbing,Apartment,Annual Contract,242.16,145.81
+J00717,2026-03-06,C0420,Yas Island,AC Maintenance,Property Manager,Annual Contract,586.98,351.79
+J00718,2026-03-07,C0450,Khalifa City,Water-Saving Retrofit,Apartment,Annual Contract,1466.32,1072.75
+J00719,2026-03-08,C0198,Mohammed Bin Zayed City,Landscaping,Property Manager,Annual Contract,346.97,224.38
+J00720,2026-03-08,C0155,Saadiyat Island,Electrical,Apartment,Annual Contract,382.93,242.72
+J00721,2026-03-08,C0115,Mohammed Bin Zayed City,Deep Cleaning,Villa,Pay-per-visit,737.53,437.91
+J00722,2026-03-08,C0401,Al Raha,Landscaping,Villa,Annual Contract,417.79,252.77
+J00723,2026-03-08,C0168,Corniche / City Center,Landscaping,Apartment,Annual Contract,460.12,294.26
+J00724,2026-03-09,C0105,Saadiyat Island,Deep Cleaning,Apartment,Pay-per-visit,596.25,362.01
+J00725,2026-03-09,C0136,Al Raha,Water-Saving Retrofit,Villa,Pay-per-visit,1043.9,660.11
+J00726,2026-03-09,C0011,Mohammed Bin Zayed City,AC Maintenance,Property Manager,Pay-per-visit,542.96,369.76
+J00727,2026-03-09,C0079,Yas Island,Pest Control,Villa,Annual Contract,206.34,110.94
+J00728,2026-03-09,C0451,Yas Island,Deep Cleaning,Villa,Pay-per-visit,660.87,408.76
+J00729,2026-03-10,C0232,Al Raha,Landscaping,Villa,Pay-per-visit,326.65,209.02
+J00730,2026-03-10,C0234,Khalifa City,Plumbing,Apartment,Annual Contract,195.29,111.42
+J00731,2026-03-10,C0309,Khalifa City,Water-Saving Retrofit,Apartment,Annual Contract,470.36,306.69
+J00732,2026-03-11,C0343,Khalifa City,Pest Control,Property Manager,Annual Contract,255.09,96.44
+J00733,2026-03-11,C0274,Yas Island,Landscaping,Property Manager,Annual Contract,688.69,475.9
+J00734,2026-03-11,C0352,Mussafah,Water-Saving Retrofit,Villa,Pay-per-visit,1333.92,930.78
+J00735,2026-03-11,C0338,Mohammed Bin Zayed City,Deep Cleaning,Apartment,Pay-per-visit,452.07,291.29
+J00736,2026-03-12,C0336,Saadiyat Island,AC Maintenance,Property Manager,Annual Contract,412.33,269.0
+J00737,2026-03-12,C0405,Yas Island,Electrical,Apartment,Annual Contract,202.63,101.66
+J00738,2026-03-12,C0068,Yas Island,Solar Panel Cleaning,Property Manager,Annual Contract,533.23,306.62
+J00739,2026-03-13,C0413,Yas Island,Water-Saving Retrofit,Villa,Pay-per-visit,802.56,508.64
+J00740,2026-03-13,C0067,Mussafah,Pest Control,Villa,Annual Contract,202.33,104.46
+J00741,2026-03-14,C0305,Al Raha,Electrical,Villa,Pay-per-visit,366.26,200.59
+J00742,2026-03-15,C0196,Al Raha,Solar Panel Cleaning,Villa,Pay-per-visit,504.63,291.02
+J00743,2026-03-15,C0026,Mohammed Bin Zayed City,Electrical,Villa,Annual Contract,181.3,88.67
+J00744,2026-03-15,C0467,Al Reem Island,Electrical,Property Manager,Annual Contract,555.11,294.99
+J00745,2026-03-15,C0453,Yas Island,Solar Panel Cleaning,Villa,Pay-per-visit,411.42,238.77
+J00746,2026-03-16,C0014,Mohammed Bin Zayed City,Water-Saving Retrofit,Villa,Pay-per-visit,806.14,520.62
+J00747,2026-03-17,C0460,Saadiyat Island,Water-Saving Retrofit,Apartment,Pay-per-visit,1033.19,711.29
+J00748,2026-03-17,C0016,Khalifa City,Water-Saving Retrofit,Apartment,Annual Contract,939.2,640.75
+J00749,2026-03-18,C0185,Saadiyat Island,Solar Panel Cleaning,Villa,Annual Contract,388.25,219.04
+J00750,2026-03-19,C0421,Saadiyat Island,Solar Panel Cleaning,Villa,Pay-per-visit,237.04,126.1
+J00751,2026-03-19,C0320,Mohammed Bin Zayed City,Plumbing,Villa,Annual Contract,183.64,106.91
+J00752,2026-03-19,C0360,Corniche / City Center,Solar Panel Cleaning,Villa,Annual Contract,231.17,97.36
+J00753,2026-03-19,C0114,Mussafah,Landscaping,Villa,Annual Contract,309.94,199.27
+J00754,2026-03-19,C0462,Khalifa City,Solar Panel Cleaning,Property Manager,Annual Contract,369.27,201.99
+J00755,2026-03-20,C0186,Al Reem Island,Plumbing,Apartment,Annual Contract,200.74,116.71
+J00756,2026-03-20,C0049,Saadiyat Island,Plumbing,Villa,Annual Contract,324.1,179.76
+J00757,2026-03-20,C0234,Khalifa City,Deep Cleaning,Apartment,Annual Contract,641.43,412.09
+J00758,2026-03-21,C0134,Yas Island,Water-Saving Retrofit,Villa,Pay-per-visit,908.32,565.03
+J00759,2026-03-21,C0124,Al Reem Island,Landscaping,Property Manager,Annual Contract,790.61,548.73
+J00760,2026-03-21,C0051,Yas Island,Solar Panel Cleaning,Villa,Pay-per-visit,377.23,208.83
+J00761,2026-03-21,C0167,Khalifa City,Pest Control,Property Manager,Annual Contract,526.91,271.56
+J00762,2026-03-22,C0358,Al Raha,Plumbing,Apartment,Pay-per-visit,173.37,103.84
+J00763,2026-03-22,C0208,Yas Island,Landscaping,Property Manager,Annual Contract,508.5,322.86
+J00764,2026-03-22,C0243,Mohammed Bin Zayed City,Plumbing,Villa,Pay-per-visit,139.89,82.58
+J00765,2026-03-23,C0264,Al Raha,Water-Saving Retrofit,Apartment,Annual Contract,935.44,647.42
+J00766,2026-03-23,C0284,Al Mushrif,Deep Cleaning,Apartment,Pay-per-visit,630.68,381.29
+J00767,2026-03-23,C0502,Saadiyat Island,Plumbing,Property Manager,Annual Contract,335.1,202.77
+J00768,2026-03-23,C0143,Al Raha,Pest Control,Villa,Pay-per-visit,464.01,208.08
+J00769,2026-03-24,C0361,Saadiyat Island,Landscaping,Apartment,Pay-per-visit,711.55,490.64
+J00770,2026-03-24,C0386,Al Reem Island,Solar Panel Cleaning,Property Manager,Annual Contract,328.31,159.41
+J00771,2026-03-24,C0022,Khalifa City,Electrical,Apartment,Pay-per-visit,398.67,217.09
+J00772,2026-03-24,C0066,Saadiyat Island,Pest Control,Villa,Pay-per-visit,328.36,162.0
+J00773,2026-03-25,C0001,Yas Island,Landscaping,Villa,Pay-per-visit,476.5,322.98
+J00774,2026-03-25,C0271,Mohammed Bin Zayed City,Water-Saving Retrofit,Apartment,Annual Contract,602.56,391.07
+J00775,2026-03-26,C0013,Khalifa City,Pest Control,Apartment,Annual Contract,331.26,148.79
+J00776,2026-03-26,C0096,Mohammed Bin Zayed City,Water-Saving Retrofit,Villa,Annual Contract,848.94,595.85
+J00777,2026-03-27,C0154,Saadiyat Island,Water-Saving Retrofit,Apartment,Annual Contract,1372.02,794.22
+J00778,2026-03-27,C0460,Saadiyat Island,Plumbing,Apartment,Pay-per-visit,409.31,226.14
+J00779,2026-03-27,C0292,Mohammed Bin Zayed City,Landscaping,Apartment,Pay-per-visit,350.26,229.23
+J00780,2026-03-28,C0405,Yas Island,Plumbing,Apartment,Annual Contract,198.82,88.18
+J00781,2026-03-28,C0168,Corniche / City Center,Deep Cleaning,Apartment,Annual Contract,423.54,232.07
+J00782,2026-03-28,C0379,Yas Island,Pest Control,Villa,Annual Contract,215.77,112.44
+J00783,2026-03-28,C0137,Al Raha,Electrical,Villa,Annual Contract,223.97,105.16
+J00784,2026-03-28,C0438,Saadiyat Island,Deep Cleaning,Apartment,Pay-per-visit,738.43,464.72
+J00785,2026-03-28,C0141,Saadiyat Island,Water-Saving Retrofit,Apartment,Pay-per-visit,1239.87,783.46
+J00786,2026-03-29,C0512,Al Mushrif,Plumbing,Villa,Pay-per-visit,198.56,102.77
+J00787,2026-03-29,C0268,Mohammed Bin Zayed City,Solar Panel Cleaning,Apartment,Pay-per-visit,241.82,119.51
+J00788,2026-03-29,C0208,Yas Island,Deep Cleaning,Property Manager,Annual Contract,608.6,401.46
+J00789,2026-03-29,C0105,Saadiyat Island,Pest Control,Apartment,Pay-per-visit,485.67,264.31
+J00790,2026-03-29,C0193,Yas Island,Solar Panel Cleaning,Villa,Annual Contract,250.97,121.28
+J00791,2026-03-30,C0502,Saadiyat Island,Solar Panel Cleaning,Property Manager,Annual Contract,530.74,266.85
+J00792,2026-03-30,C0273,Mohammed Bin Zayed City,AC Maintenance,Apartment,Pay-per-visit,274.9,176.13
+J00793,2026-03-30,C0300,Al Reem Island,Plumbing,Apartment,Annual Contract,208.04,117.41
+J00794,2026-03-31,C0104,Mohammed Bin Zayed City,Solar Panel Cleaning,Property Manager,Annual Contract,317.61,174.13
+J00795,2026-03-31,C0225,Saadiyat Island,Deep Cleaning,Villa,Pay-per-visit,820.67,537.83
+J00796,2026-03-31,C0066,Saadiyat Island,Landscaping,Villa,Pay-per-visit,775.43,512.61
+J00797,2026-03-31,C0207,Yas Island,Water-Saving Retrofit,Property Manager,Annual Contract,1540.6,1010.13
+J00798,2026-03-31,C0134,Yas Island,Pest Control,Villa,Pay-per-visit,629.17,292.23
+J00799,2026-04-01,C0108,Khalifa City,Landscaping,Villa,Pay-per-visit,416.97,259.55
+J00800,2026-04-01,C0429,Mohammed Bin Zayed City,Electrical,Villa,Pay-per-visit,200.32,105.37
+J00801,2026-04-01,C0139,Yas Island,Electrical,Apartment,Pay-per-visit,250.99,127.39
+J00802,2026-04-01,C0147,Corniche / City Center,Deep Cleaning,Apartment,Pay-per-visit,580.97,350.07
+J00803,2026-04-02,C0287,Yas Island,AC Maintenance,Apartment,Pay-per-visit,380.88,232.52
+J00804,2026-04-02,C0295,Mohammed Bin Zayed City,Solar Panel Cleaning,Villa,Annual Contract,254.19,129.57
+J00805,2026-04-02,C0418,Corniche / City Center,Electrical,Apartment,Annual Contract,168.27,88.9
+J00806,2026-04-03,C0070,Al Raha,Solar Panel Cleaning,Apartment,Annual Contract,268.47,136.67
+J00807,2026-04-03,C0150,Mohammed Bin Zayed City,Landscaping,Villa,Annual Contract,401.8,264.83
+J00808,2026-04-03,C0271,Mohammed Bin Zayed City,Electrical,Apartment,Annual Contract,188.45,104.26
+J00809,2026-04-04,C0344,Saadiyat Island,Deep Cleaning,Villa,Annual Contract,1191.75,736.96
+J00810,2026-04-04,C0034,Corniche / City Center,AC Maintenance,Property Manager,Annual Contract,451.06,238.63
+J00811,2026-04-04,C0146,Al Reem Island,Electrical,Property Manager,Annual Contract,338.3,192.92
+J00812,2026-04-06,C0027,Khalifa City,AC Maintenance,Apartment,Pay-per-visit,360.38,222.74
+J00813,2026-04-06,C0157,Khalifa City,AC Maintenance,Villa,Pay-per-visit,495.69,343.35
+J00814,2026-04-06,C0388,Al Mushrif,Plumbing,Villa,Annual Contract,193.3,101.33
+J00815,2026-04-06,C0347,Saadiyat Island,Solar Panel Cleaning,Apartment,Pay-per-visit,422.77,240.39
+J00816,2026-04-06,C0273,Mohammed Bin Zayed City,Landscaping,Apartment,Pay-per-visit,425.51,268.14
+J00817,2026-04-07,C0134,Yas Island,AC Maintenance,Villa,Pay-per-visit,417.74,277.24
+J00818,2026-04-07,C0310,Saadiyat Island,Solar Panel Cleaning,Villa,Annual Contract,380.72,173.12
+J00819,2026-04-07,C0083,Yas Island,Deep Cleaning,Apartment,Pay-per-visit,553.2,322.71
+J00820,2026-04-07,C0244,Al Raha,Pest Control,Villa,Annual Contract,282.46,141.1
+J00821,2026-04-07,C0023,Saadiyat Island,AC Maintenance,Property Manager,Annual Contract,661.13,392.93
+J00822,2026-04-08,C0041,Saadiyat Island,Water-Saving Retrofit,Apartment,Pay-per-visit,740.09,494.48
+J00823,2026-04-08,C0211,Yas Island,Deep Cleaning,Villa,Annual Contract,610.41,384.49
+J00824,2026-04-08,C0296,Al Raha,Electrical,Villa,Annual Contract,262.58,139.02
+J00825,2026-04-09,C0247,Mohammed Bin Zayed City,Plumbing,Villa,Annual Contract,174.91,113.6
+J00826,2026-04-09,C0103,Mohammed Bin Zayed City,Deep Cleaning,Apartment,Pay-per-visit,491.54,288.5
+J00827,2026-04-09,C0196,Al Raha,Deep Cleaning,Villa,Pay-per-visit,566.54,377.04
+J00828,2026-04-09,C0127,Saadiyat Island,Solar Panel Cleaning,Property Manager,Annual Contract,863.68,408.07
+J00829,2026-04-10,C0380,Yas Island,Plumbing,Villa,Annual Contract,306.08,146.35
+J00830,2026-04-10,C0435,Khalifa City,Water-Saving Retrofit,Villa,Annual Contract,847.57,553.65
+J00831,2026-04-11,C0408,Yas Island,Electrical,Apartment,Annual Contract,200.22,116.85
+J00832,2026-04-12,C0124,Al Reem Island,Plumbing,Property Manager,Annual Contract,383.77,203.49
+J00833,2026-04-12,C0180,Mohammed Bin Zayed City,Solar Panel Cleaning,Villa,Pay-per-visit,349.06,166.62
+J00834,2026-04-13,C0206,Yas Island,Plumbing,Apartment,Pay-per-visit,266.75,143.38
+J00835,2026-04-13,C0512,Al Mushrif,Deep Cleaning,Villa,Pay-per-visit,565.52,325.78
+J00836,2026-04-13,C0167,Khalifa City,Electrical,Property Manager,Annual Contract,328.5,188.69
+J00837,2026-04-14,C0472,Yas Island,Electrical,Villa,Pay-per-visit,269.32,134.23
+J00838,2026-04-14,C0421,Saadiyat Island,Deep Cleaning,Villa,Pay-per-visit,988.88,648.93
+J00839,2026-04-14,C0246,Khalifa City,Deep Cleaning,Villa,Pay-per-visit,699.6,423.37
+J00840,2026-04-15,C0296,Al Raha,Water-Saving Retrofit,Villa,Annual Contract,874.66,541.71
+J00841,2026-04-15,C0098,Yas Island,Water-Saving Retrofit,Villa,Annual Contract,686.92,511.58
+J00842,2026-04-15,C0450,Khalifa City,Solar Panel Cleaning,Apartment,Annual Contract,254.43,155.52
+J00843,2026-04-15,C0256,Al Reem Island,Water-Saving Retrofit,Apartment,Pay-per-visit,936.35,662.51
+J00844,2026-04-15,C0283,Khalifa City,Landscaping,Villa,Pay-per-visit,363.57,219.51
+J00845,2026-04-15,C0344,Saadiyat Island,Deep Cleaning,Villa,Annual Contract,925.82,605.26
+J00846,2026-04-16,C0254,Saadiyat Island,Landscaping,Apartment,Annual Contract,548.38,376.75
+J00847,2026-04-16,C0399,Mohammed Bin Zayed City,Landscaping,Villa,Pay-per-visit,422.81,276.94
+J00848,2026-04-17,C0019,Mohammed Bin Zayed City,Deep Cleaning,Apartment,Pay-per-visit,662.78,409.67
+J00849,2026-04-18,C0185,Saadiyat Island,Deep Cleaning,Villa,Annual Contract,1136.64,735.89
+J00850,2026-04-18,C0308,Al Reem Island,Pest Control,Apartment,Annual Contract,270.79,118.34
+J00851,2026-04-18,C0452,Saadiyat Island,Water-Saving Retrofit,Apartment,Pay-per-visit,1706.63,1196.64
+J00852,2026-04-18,C0288,Mussafah,Plumbing,Villa,Pay-per-visit,218.16,119.23
+J00853,2026-04-19,C0300,Al Reem Island,Pest Control,Apartment,Annual Contract,182.06,88.07
+J00854,2026-04-19,C0074,Al Reem Island,Landscaping,Apartment,Pay-per-visit,514.77,333.49
+J00855,2026-04-19,C0418,Corniche / City Center,Solar Panel Cleaning,Apartment,Annual Contract,357.25,187.75
+J00856,2026-04-19,C0447,Yas Island,Water-Saving Retrofit,Apartment,Pay-per-visit,866.59,602.05
+J00857,2026-04-19,C0375,Mussafah,Solar Panel Cleaning,Villa,Pay-per-visit,235.35,138.76
+J00858,2026-04-19,C0038,Yas Island,Water-Saving Retrofit,Apartment,Pay-per-visit,1275.12,907.37
+J00859,2026-04-19,C0215,Al Mushrif,AC Maintenance,Villa,Pay-per-visit,335.18,197.93
+J00860,2026-04-20,C0013,Khalifa City,Plumbing,Apartment,Annual Contract,285.25,160.16
+J00861,2026-04-21,C0023,Saadiyat Island,Deep Cleaning,Property Manager,Annual Contract,1162.0,733.61
+J00862,2026-04-21,C0067,Mussafah,Solar Panel Cleaning,Villa,Annual Contract,208.88,103.82
+J00863,2026-04-23,C0435,Khalifa City,Deep Cleaning,Villa,Annual Contract,697.84,436.4
+J00864,2026-04-24,C0341,Mussafah,Deep Cleaning,Property Manager,Annual Contract,452.2,283.44
+J00865,2026-04-24,C0096,Mohammed Bin Zayed City,Electrical,Villa,Annual Contract,235.75,127.4
+J00866,2026-04-25,C0407,Mohammed Bin Zayed City,Solar Panel Cleaning,Apartment,Annual Contract,333.67,165.2
+J00867,2026-04-25,C0357,Mohammed Bin Zayed City,Electrical,Property Manager,Annual Contract,358.62,209.47
+J00868,2026-04-25,C0449,Mohammed Bin Zayed City,Solar Panel Cleaning,Villa,Pay-per-visit,220.77,129.22
+J00869,2026-04-25,C0385,Corniche / City Center,Solar Panel Cleaning,Property Manager,Annual Contract,458.54,211.98
+J00870,2026-04-25,C0109,Al Mushrif,AC Maintenance,Apartment,Pay-per-visit,416.61,230.24
+J00871,2026-04-27,C0409,Al Reem Island,AC Maintenance,Villa,Annual Contract,499.55,320.41
+J00872,2026-04-27,C0120,Saadiyat Island,Pest Control,Apartment,Annual Contract,501.54,196.46
+J00873,2026-04-28,C0456,Al Reem Island,Pest Control,Villa,Pay-per-visit,340.08,179.88
+J00874,2026-04-29,C0092,Khalifa City,Solar Panel Cleaning,Apartment,Pay-per-visit,307.38,155.9
+J00875,2026-04-29,C0356,Al Reem Island,Deep Cleaning,Apartment,Pay-per-visit,679.46,405.96
+J00876,2026-04-29,C0436,Al Raha,AC Maintenance,Property Manager,Annual Contract,679.82,396.22
+J00877,2026-04-29,C0124,Al Reem Island,Plumbing,Property Manager,Annual Contract,372.61,210.72
+J00878,2026-04-30,C0074,Al Reem Island,Solar Panel Cleaning,Apartment,Pay-per-visit,372.42,214.67
+J00879,2026-04-30,C0254,Saadiyat Island,Landscaping,Apartment,Annual Contract,629.19,432.94
+J00880,2026-05-02,C0502,Saadiyat Island,AC Maintenance,Property Manager,Annual Contract,653.35,408.04
+J00881,2026-05-02,C0264,Al Raha,Deep Cleaning,Apartment,Annual Contract,556.36,328.88
+J00882,2026-05-03,C0234,Khalifa City,AC Maintenance,Apartment,Annual Contract,283.81,190.13
+J00883,2026-05-03,C0415,Saadiyat Island,Deep Cleaning,Property Manager,Pay-per-visit,1752.59,1052.76
+J00884,2026-05-04,C0320,Mohammed Bin Zayed City,Plumbing,Villa,Annual Contract,124.77,74.18
+J00885,2026-05-04,C0520,Mussafah,Deep Cleaning,Villa,Pay-per-visit,509.76,299.8
+J00886,2026-05-05,C0276,Al Mushrif,Pest Control,Villa,Pay-per-visit,349.27,191.32
+J00887,2026-05-05,C0512,Al Mushrif,Electrical,Villa,Pay-per-visit,337.19,207.91
+J00888,2026-05-05,C0067,Mussafah,Pest Control,Villa,Annual Contract,313.48,167.32
+J00889,2026-05-06,C0356,Al Reem Island,Pest Control,Apartment,Pay-per-visit,411.58,225.01
+J00890,2026-05-06,C0283,Khalifa City,Water-Saving Retrofit,Villa,Pay-per-visit,851.65,611.46
+J00891,2026-05-06,C0386,Al Reem Island,Solar Panel Cleaning,Property Manager,Annual Contract,638.12,349.46
+J00892,2026-05-06,C0092,Khalifa City,Water-Saving Retrofit,Apartment,Pay-per-visit,898.84,600.41
+J00893,2026-05-06,C0205,Saadiyat Island,Water-Saving Retrofit,Apartment,Annual Contract,1081.53,814.71
+J00894,2026-05-07,C0337,Corniche / City Center,Solar Panel Cleaning,Apartment,Pay-per-visit,358.27,189.65
+J00895,2026-05-07,C0154,Saadiyat Island,Deep Cleaning,Apartment,Annual Contract,622.67,389.5
+J00896,2026-05-08,C0300,Al Reem Island,Water-Saving Retrofit,Apartment,Annual Contract,844.09,564.32
+J00897,2026-05-09,C0159,Yas Island,Electrical,Apartment,Pay-per-visit,273.35,138.71
+J00898,2026-05-09,C0037,Khalifa City,Solar Panel Cleaning,Apartment,Annual Contract,263.54,123.33
+J00899,2026-05-10,C0285,Mohammed Bin Zayed City,Deep Cleaning,Property Manager,Annual Contract,629.6,400.37
+J00900,2026-05-10,C0341,Mussafah,Solar Panel Cleaning,Property Manager,Annual Contract,361.63,202.7
+J00901,2026-05-10,C0492,Mohammed Bin Zayed City,Deep Cleaning,Property Manager,Pay-per-visit,1204.38,779.75
+J00902,2026-05-11,C0185,Saadiyat Island,Electrical,Villa,Annual Contract,263.38,145.38
+J00903,2026-05-11,C0021,Saadiyat Island,Deep Cleaning,Villa,Annual Contract,667.12,450.74
+J00904,2026-05-12,C0312,Khalifa City,Deep Cleaning,Apartment,Annual Contract,454.42,282.28
+J00905,2026-05-12,C0164,Yas Island,Deep Cleaning,Villa,Pay-per-visit,759.83,496.0
+J00906,2026-05-12,C0011,Mohammed Bin Zayed City,Plumbing,Property Manager,Pay-per-visit,218.18,122.53
+J00907,2026-05-12,C0412,Al Mushrif,Electrical,Villa,Annual Contract,440.46,224.18
+J00908,2026-05-12,C0295,Mohammed Bin Zayed City,Plumbing,Villa,Annual Contract,142.82,82.38
+J00909,2026-05-13,C0299,Saadiyat Island,Solar Panel Cleaning,Villa,Annual Contract,256.68,137.22
+J00910,2026-05-13,C0423,Al Raha,Water-Saving Retrofit,Villa,Pay-per-visit,472.12,286.19
+J00911,2026-05-14,C0146,Al Reem Island,Pest Control,Property Manager,Annual Contract,391.91,209.79
+J00912,2026-05-14,C0323,Al Raha,Deep Cleaning,Villa,Pay-per-visit,700.1,442.19
+J00913,2026-05-14,C0508,Mohammed Bin Zayed City,AC Maintenance,Villa,Pay-per-visit,372.09,219.41
+J00914,2026-05-14,C0154,Saadiyat Island,Water-Saving Retrofit,Apartment,Annual Contract,784.54,498.93
+J00915,2026-05-14,C0120,Saadiyat Island,Water-Saving Retrofit,Apartment,Annual Contract,572.51,422.21
+J00916,2026-05-14,C0093,Mussafah,Landscaping,Property Manager,Pay-per-visit,459.79,302.02
+J00917,2026-05-15,C0356,Al Reem Island,Plumbing,Apartment,Pay-per-visit,327.34,199.6
+J00918,2026-05-15,C0515,Al Raha,Solar Panel Cleaning,Villa,Pay-per-visit,526.74,277.8
+J00919,2026-05-16,C0408,Yas Island,Deep Cleaning,Apartment,Annual Contract,757.54,526.73
+J00920,2026-05-17,C0450,Khalifa City,AC Maintenance,Apartment,Annual Contract,316.25,205.49
+J00921,2026-05-18,C0034,Corniche / City Center,AC Maintenance,Property Manager,Annual Contract,378.49,236.65
+J00922,2026-05-18,C0090,Corniche / City Center,Pest Control,Apartment,Pay-per-visit,196.91,97.52
+J00923,2026-05-19,C0195,Mussafah,Deep Cleaning,Apartment,Pay-per-visit,537.14,290.41
+J00924,2026-05-19,C0350,Khalifa City,Deep Cleaning,Apartment,Annual Contract,455.62,280.81
+J00925,2026-05-20,C0357,Mohammed Bin Zayed City,AC Maintenance,Property Manager,Annual Contract,517.74,339.13
+J00926,2026-05-20,C0256,Al Reem Island,Electrical,Apartment,Pay-per-visit,227.07,122.56
+J00927,2026-05-21,C0475,Yas Island,Landscaping,Property Manager,Annual Contract,730.59,473.17
+J00928,2026-05-21,C0085,Yas Island,Solar Panel Cleaning,Villa,Annual Contract,353.7,193.04
+J00929,2026-05-21,C0026,Mohammed Bin Zayed City,AC Maintenance,Villa,Annual Contract,387.03,228.51
+J00930,2026-05-21,C0260,Khalifa City,Landscaping,Apartment,Annual Contract,430.85,295.85
+J00931,2026-05-21,C0300,Al Reem Island,Pest Control,Apartment,Annual Contract,254.58,128.93
+J00932,2026-05-21,C0162,Al Reem Island,Solar Panel Cleaning,Villa,Pay-per-visit,396.51,197.73
+J00933,2026-05-22,C0223,Al Mushrif,Pest Control,Villa,Annual Contract,346.85,171.92
+J00934,2026-05-22,C0104,Mohammed Bin Zayed City,Water-Saving Retrofit,Property Manager,Annual Contract,995.14,722.95
+J00935,2026-05-22,C0294,Mohammed Bin Zayed City,Water-Saving Retrofit,Villa,Annual Contract,448.27,292.53
+J00936,2026-05-22,C0248,Yas Island,Pest Control,Villa,Annual Contract,222.08,115.68
+J00937,2026-05-23,C0355,Corniche / City Center,Water-Saving Retrofit,Apartment,Pay-per-visit,822.04,612.55
+J00938,2026-05-24,C0087,Mohammed Bin Zayed City,AC Maintenance,Villa,Pay-per-visit,280.01,173.54
+J00939,2026-05-24,C0167,Khalifa City,AC Maintenance,Property Manager,Annual Contract,572.39,372.48
+J00940,2026-05-24,C0436,Al Raha,Solar Panel Cleaning,Property Manager,Annual Contract,395.23,201.82
+J00941,2026-05-24,C0288,Mussafah,Deep Cleaning,Villa,Pay-per-visit,478.56,270.93
+J00942,2026-05-24,C0022,Khalifa City,Deep Cleaning,Apartment,Pay-per-visit,591.27,341.91
+J00943,2026-05-25,C0211,Yas Island,Pest Control,Villa,Annual Contract,353.51,168.49
+J00944,2026-05-26,C0111,Mohammed Bin Zayed City,Pest Control,Property Manager,Annual Contract,590.55,269.43
+J00945,2026-05-26,C0153,Khalifa City,Landscaping,Property Manager,Annual Contract,980.8,624.12
+J00946,2026-05-26,C0441,Mohammed Bin Zayed City,Pest Control,Property Manager,Annual Contract,488.85,214.88
+J00947,2026-05-27,C0057,Al Reem Island,Solar Panel Cleaning,Villa,Annual Contract,323.9,165.65
+J00948,2026-05-27,C0156,Saadiyat Island,Plumbing,Apartment,Pay-per-visit,224.39,140.41
+J00949,2026-05-27,C0357,Mohammed Bin Zayed City,Solar Panel Cleaning,Property Manager,Annual Contract,430.76,232.67
+J00950,2026-05-27,C0311,Mohammed Bin Zayed City,AC Maintenance,Villa,Annual Contract,222.5,135.69
+J00951,2026-05-28,C0226,Khalifa City,Water-Saving Retrofit,Villa,Pay-per-visit,573.62,393.89
+J00952,2026-05-28,C0300,Al Reem Island,AC Maintenance,Apartment,Annual Contract,311.28,188.11
+J00953,2026-05-28,C0512,Al Mushrif,Pest Control,Villa,Pay-per-visit,401.02,206.16
+J00954,2026-05-28,C0430,Mohammed Bin Zayed City,Pest Control,Apartment,Pay-per-visit,209.58,113.33
+J00955,2026-05-29,C0079,Yas Island,Plumbing,Villa,Annual Contract,201.75,97.88
+J00956,2026-05-29,C0487,Al Raha,Pest Control,Apartment,Pay-per-visit,285.22,136.83
+J00957,2026-05-29,C0037,Khalifa City,AC Maintenance,Apartment,Annual Contract,376.57,216.23
+J00958,2026-05-29,C0123,Saadiyat Island,Electrical,Villa,Pay-per-visit,338.8,163.58
+J00959,2026-05-29,C0061,Yas Island,Pest Control,Apartment,Pay-per-visit,327.07,128.8
+J00960,2026-05-30,C0466,Al Reem Island,Solar Panel Cleaning,Apartment,Annual Contract,461.26,231.71
+J00961,2026-05-30,C0047,Khalifa City,Water-Saving Retrofit,Apartment,Pay-per-visit,1218.67,886.48
+J00962,2026-05-30,C0120,Saadiyat Island,Electrical,Apartment,Annual Contract,287.38,162.17
+J00963,2026-05-30,C0099,Mohammed Bin Zayed City,Plumbing,Villa,Pay-per-visit,251.48,143.45
+J00964,2026-05-30,C0237,Yas Island,Landscaping,Apartment,Pay-per-visit,444.37,287.68
+J00965,2026-05-30,C0307,Al Reem Island,Pest Control,Villa,Pay-per-visit,201.75,103.09
+J00966,2026-05-31,C0108,Khalifa City,Plumbing,Villa,Pay-per-visit,285.89,171.59
+J00967,2026-05-31,C0015,Al Reem Island,Plumbing,Apartment,Pay-per-visit,283.9,187.55
+J00968,2026-05-31,C0380,Yas Island,Plumbing,Villa,Annual Contract,187.73,105.18
+J00969,2026-05-31,C0335,Mohammed Bin Zayed City,Water-Saving Retrofit,Villa,Annual Contract,714.27,512.85
+J00970,2026-05-31,C0098,Yas Island,Plumbing,Villa,Annual Contract,224.06,130.68
+J00971,2026-06-01,C0074,Al Reem Island,AC Maintenance,Apartment,Pay-per-visit,313.32,210.77
+J00972,2026-06-02,C0409,Al Reem Island,AC Maintenance,Villa,Annual Contract,342.89,230.25
+J00973,2026-06-02,C0138,Al Raha,Electrical,Villa,Pay-per-visit,269.29,146.09
+J00974,2026-06-03,C0496,Saadiyat Island,Water-Saving Retrofit,Apartment,Pay-per-visit,792.01,486.72
+J00975,2026-06-03,C0311,Mohammed Bin Zayed City,AC Maintenance,Villa,Annual Contract,315.98,189.74
+J00976,2026-06-03,C0385,Corniche / City Center,AC Maintenance,Property Manager,Annual Contract,348.42,182.85
+J00977,2026-06-04,C0215,Al Mushrif,Electrical,Villa,Pay-per-visit,217.51,124.05
+J00978,2026-06-05,C0388,Al Mushrif,Pest Control,Villa,Annual Contract,252.04,121.06
+J00979,2026-06-05,C0079,Yas Island,Electrical,Villa,Annual Contract,223.65,123.91
+J00980,2026-06-06,C0157,Khalifa City,Solar Panel Cleaning,Villa,Pay-per-visit,295.35,141.21
+J00981,2026-06-08,C0408,Yas Island,Pest Control,Apartment,Annual Contract,290.21,146.69
+J00982,2026-06-08,C0103,Mohammed Bin Zayed City,Pest Control,Apartment,Pay-per-visit,307.32,152.79
+J00983,2026-06-08,C0207,Yas Island,Plumbing,Property Manager,Annual Contract,490.95,274.72
+J00984,2026-06-09,C0013,Khalifa City,AC Maintenance,Apartment,Annual Contract,310.21,187.16
+J00985,2026-06-09,C0440,Mohammed Bin Zayed City,Landscaping,Villa,Pay-per-visit,254.16,170.05
+J00986,2026-06-10,C0397,Yas Island,Pest Control,Villa,Pay-per-visit,471.58,233.54
+J00987,2026-06-10,C0379,Yas Island,Plumbing,Villa,Annual Contract,163.65,92.68
+J00988,2026-06-10,C0311,Mohammed Bin Zayed City,Pest Control,Villa,Annual Contract,170.51,85.6
+J00989,2026-06-10,C0036,Saadiyat Island,Landscaping,Apartment,Annual Contract,585.35,370.24
+J00990,2026-06-10,C0082,Yas Island,Solar Panel Cleaning,Villa,Annual Contract,236.99,143.1
+J00991,2026-06-11,C0185,Saadiyat Island,AC Maintenance,Villa,Annual Contract,285.56,176.9
+J00992,2026-06-11,C0285,Mohammed Bin Zayed City,Solar Panel Cleaning,Property Manager,Annual Contract,296.75,170.16
+J00993,2026-06-11,C0496,Saadiyat Island,Electrical,Apartment,Pay-per-visit,518.46,293.42
+J00994,2026-06-11,C0254,Saadiyat Island,Plumbing,Apartment,Annual Contract,300.82,175.48
+J00995,2026-06-11,C0344,Saadiyat Island,Water-Saving Retrofit,Villa,Annual Contract,1321.76,864.27
+J00996,2026-06-12,C0030,Al Mushrif,Deep Cleaning,Villa,Annual Contract,318.3,212.84
+J00997,2026-06-12,C0514,Saadiyat Island,AC Maintenance,Villa,Pay-per-visit,375.8,226.59
+J00998,2026-06-12,C0026,Mohammed Bin Zayed City,AC Maintenance,Villa,Annual Contract,251.06,157.42
+J00999,2026-06-12,C0046,Yas Island,AC Maintenance,Apartment,Pay-per-visit,594.49,353.23
+J01000,2026-06-13,C0072,Al Mushrif,Deep Cleaning,Apartment,Pay-per-visit,490.45,311.0
+J01001,2026-06-13,C0191,Al Raha,Plumbing,Villa,Pay-per-visit,341.52,202.37
+J01002,2026-06-13,C0433,Mohammed Bin Zayed City,Pest Control,Property Manager,Annual Contract,454.06,239.64
+J01003,2026-06-13,C0409,Al Reem Island,Plumbing,Villa,Annual Contract,239.27,133.09
+J01004,2026-06-14,C0475,Yas Island,Electrical,Property Manager,Annual Contract,447.45,233.78
+J01005,2026-06-14,C0320,Mohammed Bin Zayed City,Solar Panel Cleaning,Villa,Annual Contract,276.95,131.24
+J01006,2026-06-14,C0367,Mussafah,AC Maintenance,Villa,Annual Contract,280.58,170.07
+J01007,2026-06-15,C0111,Mohammed Bin Zayed City,Electrical,Property Manager,Annual Contract,379.81,189.53
+J01008,2026-06-16,C0406,Mohammed Bin Zayed City,Pest Control,Villa,Pay-per-visit,366.92,192.12
+J01009,2026-06-16,C0131,Al Reem Island,Pest Control,Property Manager,Annual Contract,408.86,181.74
+J01010,2026-06-16,C0500,Mohammed Bin Zayed City,AC Maintenance,Villa,Annual Contract,257.67,159.26
+J01011,2026-06-17,C0294,Mohammed Bin Zayed City,Pest Control,Villa,Annual Contract,183.39,84.21
+J01012,2026-06-17,C0211,Yas Island,Water-Saving Retrofit,Villa,Annual Contract,1503.95,1050.3
+J01013,2026-06-18,C0155,Saadiyat Island,Solar Panel Cleaning,Apartment,Annual Contract,338.6,164.82
+J01014,2026-06-18,C0458,Khalifa City,AC Maintenance,Apartment,Annual Contract,271.57,176.19
+J01015,2026-06-18,C0335,Mohammed Bin Zayed City,Pest Control,Villa,Annual Contract,328.65,185.81
+J01016,2026-06-18,C0466,Al Reem Island,Deep Cleaning,Apartment,Annual Contract,677.55,434.62
+J01017,2026-06-19,C0468,Mohammed Bin Zayed City,Water-Saving Retrofit,Apartment,Annual Contract,774.87,487.74
+J01018,2026-06-19,C0009,Mohammed Bin Zayed City,Plumbing,Apartment,Pay-per-visit,256.35,138.28
+J01019,2026-06-20,C0098,Yas Island,AC Maintenance,Villa,Annual Contract,401.51,236.2
+J01020,2026-06-20,C0435,Khalifa City,Water-Saving Retrofit,Villa,Annual Contract,918.92,622.43
+J01021,2026-06-20,C0080,Al Mushrif,Deep Cleaning,Villa,Pay-per-visit,523.78,299.82
+J01022,2026-06-20,C0132,Saadiyat Island,Deep Cleaning,Apartment,Annual Contract,626.12,383.57
+J01023,2026-06-21,C0407,Mohammed Bin Zayed City,AC Maintenance,Apartment,Annual Contract,247.15,147.36
+J01024,2026-06-21,C0501,Saadiyat Island,Pest Control,Apartment,Pay-per-visit,433.5,218.19
+J01025,2026-06-21,C0319,Al Raha,AC Maintenance,Villa,Pay-per-visit,439.35,251.32
+J01026,2026-06-21,C0052,Al Mushrif,AC Maintenance,Villa,Annual Contract,412.44,254.33
+J01027,2026-06-22,C0261,Mussafah,AC Maintenance,Apartment,Pay-per-visit,244.38,143.09
+J01028,2026-06-22,C0441,Mohammed Bin Zayed City,Electrical,Property Manager,Annual Contract,425.25,271.41
+J01029,2026-06-24,C0363,Khalifa City,AC Maintenance,Villa,Annual Contract,318.72,200.21
+J01030,2026-06-24,C0401,Al Raha,Electrical,Villa,Annual Contract,278.69,154.92
+J01031,2026-06-25,C0027,Khalifa City,AC Maintenance,Apartment,Pay-per-visit,337.85,205.58
+J01032,2026-06-25,C0077,Mohammed Bin Zayed City,Pest Control,Apartment,Pay-per-visit,193.15,87.22
+J01033,2026-06-25,C0111,Mohammed Bin Zayed City,Pest Control,Property Manager,Annual Contract,416.66,178.37
+J01034,2026-06-25,C0248,Yas Island,AC Maintenance,Villa,Annual Contract,368.09,197.17
+J01035,2026-06-25,C0114,Mussafah,Landscaping,Villa,Annual Contract,364.85,253.12
+J01036,2026-06-26,C0057,Al Reem Island,Electrical,Villa,Annual Contract,273.56,163.58
+J01037,2026-06-26,C0124,Al Reem Island,AC Maintenance,Property Manager,Annual Contract,536.88,316.78
+J01038,2026-06-26,C0467,Al Reem Island,Electrical,Property Manager,Annual Contract,315.29,178.59
+J01039,2026-06-27,C0300,Al Reem Island,Deep Cleaning,Apartment,Annual Contract,1148.25,783.21
+J01040,2026-06-27,C0054,Al Raha,Plumbing,Villa,Pay-per-visit,283.04,156.06
+J01041,2026-06-28,C0153,Khalifa City,Plumbing,Property Manager,Annual Contract,346.22,202.19
+J01042,2026-06-28,C0146,Al Reem Island,Electrical,Property Manager,Annual Contract,423.43,245.94
+J01043,2026-06-28,C0018,Khalifa City,Electrical,Apartment,Annual Contract,148.16,79.22
+J01044,2026-06-28,C0065,Mohammed Bin Zayed City,Plumbing,Villa,Pay-per-visit,166.38,97.34
+J01045,2026-06-28,C0317,Saadiyat Island,Plumbing,Villa,Pay-per-visit,259.52,151.26
+J01046,2026-06-29,C0418,Corniche / City Center,Pest Control,Apartment,Annual Contract,337.67,173.14
+J01047,2026-06-29,C0459,Saadiyat Island,Water-Saving Retrofit,Apartment,Pay-per-visit,781.94,590.98
+J01048,2026-06-29,C0207,Yas Island,Plumbing,Property Manager,Annual Contract,316.58,186.01
+J01049,2026-06-30,C0357,Mohammed Bin Zayed City,Water-Saving Retrofit,Property Manager,Annual Contract,1130.14,770.9
+J01050,2026-07-01,C0289,Al Raha,AC Maintenance,Apartment,Pay-per-visit,331.41,204.69
+J01051,2026-07-01,C0236,Al Reem Island,AC Maintenance,Villa,Annual Contract,288.2,167.83
+J01052,2026-07-01,C0503,Yas Island,AC Maintenance,Apartment,Pay-per-visit,274.72,184.13
+J01053,2026-07-01,C0299,Saadiyat Island,Pest Control,Villa,Annual Contract,265.78,139.44
+J01054,2026-07-02,C0136,Al Raha,AC Maintenance,Villa,Pay-per-visit,396.01,247.85
+J01055,2026-07-02,C0320,Mohammed Bin Zayed City,Pest Control,Villa,Annual Contract,231.68,110.29
+J01056,2026-07-03,C0326,Yas Island,Deep Cleaning,Property Manager,Annual Contract,1084.84,656.07
+J01057,2026-07-03,C0467,Al Reem Island,Pest Control,Property Manager,Annual Contract,377.5,200.19
+J01058,2026-07-03,C0024,Al Reem Island,Solar Panel Cleaning,Villa,Annual Contract,213.82,100.1
+J01059,2026-07-03,C0457,Yas Island,Plumbing,Property Manager,Annual Contract,427.23,250.66
+J01060,2026-07-03,C0516,Corniche / City Center,Pest Control,Villa,Annual Contract,303.21,145.55
+J01061,2026-07-04,C0311,Mohammed Bin Zayed City,AC Maintenance,Villa,Annual Contract,252.99,145.81
+J01062,2026-07-04,C0452,Saadiyat Island,Pest Control,Apartment,Pay-per-visit,327.26,211.05
+J01063,2026-07-05,C0049,Saadiyat Island,Plumbing,Villa,Annual Contract,377.82,218.34
+J01064,2026-07-05,C0070,Al Raha,Pest Control,Apartment,Annual Contract,196.97,89.16
+J01065,2026-07-05,C0211,Yas Island,Pest Control,Villa,Annual Contract,311.1,148.83
+J01066,2026-07-05,C0075,Mohammed Bin Zayed City,Water-Saving Retrofit,Apartment,Pay-per-visit,527.64,356.35
+J01067,2026-07-05,C0067,Mussafah,Electrical,Villa,Annual Contract,138.54,73.92
+J01068,2026-07-05,C0401,Al Raha,AC Maintenance,Villa,Annual Contract,503.02,311.8
+J01069,2026-07-05,C0334,Yas Island,Electrical,Villa,Pay-per-visit,223.7,136.79
+J01070,2026-07-05,C0375,Mussafah,Solar Panel Cleaning,Villa,Pay-per-visit,354.66,188.49
+J01071,2026-07-06,C0265,Yas Island,AC Maintenance,Apartment,Pay-per-visit,427.17,274.06
+J01072,2026-07-07,C0063,Yas Island,Electrical,Villa,Annual Contract,325.42,187.57
+J01073,2026-07-07,C0111,Mohammed Bin Zayed City,AC Maintenance,Property Manager,Annual Contract,293.9,160.33
+J01074,2026-07-07,C0307,Al Reem Island,AC Maintenance,Villa,Pay-per-visit,377.67,239.6
+J01075,2026-07-07,C0127,Saadiyat Island,AC Maintenance,Property Manager,Annual Contract,752.24,438.66
+J01076,2026-07-08,C0412,Al Mushrif,AC Maintenance,Villa,Annual Contract,343.06,222.05
+J01077,2026-07-08,C0360,Corniche / City Center,Plumbing,Villa,Annual Contract,217.69,113.87
+J01078,2026-07-09,C0405,Yas Island,AC Maintenance,Apartment,Annual Contract,370.75,231.84
+J01079,2026-07-09,C0403,Mohammed Bin Zayed City,Electrical,Villa,Pay-per-visit,267.23,140.39
+J01080,2026-07-09,C0039,Al Mushrif,AC Maintenance,Apartment,Annual Contract,323.13,201.29
+J01081,2026-07-09,C0318,Saadiyat Island,Solar Panel Cleaning,Apartment,Pay-per-visit,465.37,253.21
+J01082,2026-07-10,C0207,Yas Island,AC Maintenance,Property Manager,Annual Contract,1017.44,626.17
+J01083,2026-07-10,C0286,Saadiyat Island,Electrical,Apartment,Pay-per-visit,373.85,201.78
+J01084,2026-07-10,C0244,Al Raha,AC Maintenance,Villa,Annual Contract,308.55,163.24
+J01085,2026-07-10,C0068,Yas Island,Plumbing,Property Manager,Annual Contract,270.54,152.8
+J01086,2026-07-11,C0168,Corniche / City Center,Solar Panel Cleaning,Apartment,Annual Contract,220.03,122.15
+J01087,2026-07-11,C0219,Al Reem Island,Electrical,Apartment,Pay-per-visit,333.07,170.42
+J01088,2026-07-11,C0015,Al Reem Island,AC Maintenance,Apartment,Pay-per-visit,294.7,163.77
+J01089,2026-07-11,C0308,Al Reem Island,Plumbing,Apartment,Annual Contract,219.99,134.13
+J01090,2026-07-12,C0492,Mohammed Bin Zayed City,AC Maintenance,Property Manager,Pay-per-visit,676.17,428.93
+J01091,2026-07-12,C0237,Yas Island,Plumbing,Apartment,Pay-per-visit,243.97,138.48
+J01092,2026-07-13,C0083,Yas Island,Pest Control,Apartment,Pay-per-visit,328.27,154.09
+J01093,2026-07-13,C0355,Corniche / City Center,Pest Control,Apartment,Pay-per-visit,283.84,136.65
+J01094,2026-07-13,C0369,Al Reem Island,Plumbing,Property Manager,Annual Contract,397.59,229.78
+J01095,2026-07-13,C0456,Al Reem Island,AC Maintenance,Villa,Pay-per-visit,464.76,249.28
+J01096,2026-07-13,C0198,Mohammed Bin Zayed City,Plumbing,Property Manager,Annual Contract,271.94,150.74
+J01097,2026-07-14,C0300,Al Reem Island,AC Maintenance,Apartment,Annual Contract,370.08,209.13
+J01098,2026-07-14,C0409,Al Reem Island,Water-Saving Retrofit,Villa,Annual Contract,654.85,459.49
+J01099,2026-07-14,C0187,Mohammed Bin Zayed City,AC Maintenance,Apartment,Pay-per-visit,395.89,233.63
+J01100,2026-07-14,C0512,Al Mushrif,Pest Control,Villa,Pay-per-visit,453.61,242.38
+J01101,2026-07-14,C0111,Mohammed Bin Zayed City,Electrical,Property Manager,Annual Contract,474.04,254.45
+J01102,2026-07-15,C0320,Mohammed Bin Zayed City,AC Maintenance,Villa,Annual Contract,273.32,139.04
+J01103,2026-07-15,C0171,Mohammed Bin Zayed City,Deep Cleaning,Apartment,Annual Contract,614.85,375.21
+J01104,2026-07-15,C0122,Al Raha,Solar Panel Cleaning,Villa,Annual Contract,280.28,159.05
+J01105,2026-07-15,C0026,Mohammed Bin Zayed City,AC Maintenance,Villa,Annual Contract,376.24,216.23
+J01106,2026-07-15,C0337,Corniche / City Center,Electrical,Apartment,Pay-per-visit,224.96,128.24
+J01107,2026-07-16,C0334,Yas Island,Electrical,Villa,Pay-per-visit,419.01,232.8
+J01108,2026-07-16,C0318,Saadiyat Island,AC Maintenance,Apartment,Pay-per-visit,860.55,515.61
+J01109,2026-07-16,C0075,Mohammed Bin Zayed City,AC Maintenance,Apartment,Pay-per-visit,256.4,160.99
+J01110,2026-07-16,C0340,Al Mushrif,Plumbing,Apartment,Annual Contract,194.35,106.56
+J01111,2026-07-16,C0046,Yas Island,Water-Saving Retrofit,Apartment,Pay-per-visit,934.69,570.48
+J01112,2026-07-16,C0458,Khalifa City,Water-Saving Retrofit,Apartment,Annual Contract,793.3,531.09
+J01113,2026-07-17,C0457,Yas Island,Plumbing,Property Manager,Annual Contract,306.14,175.87
+J01114,2026-07-17,C0497,Mohammed Bin Zayed City,AC Maintenance,Villa,Annual Contract,241.29,137.16
+J01115,2026-07-18,C0041,Saadiyat Island,Landscaping,Apartment,Pay-per-visit,382.45,250.41
+J01116,2026-07-18,C0172,Saadiyat Island,Plumbing,Villa,Pay-per-visit,325.09,192.36
+J01117,2026-07-18,C0039,Al Mushrif,AC Maintenance,Apartment,Annual Contract,337.67,190.44
+J01118,2026-07-19,C0378,Saadiyat Island,AC Maintenance,Apartment,Pay-per-visit,531.5,326.72
+J01119,2026-07-19,C0274,Yas Island,Electrical,Property Manager,Annual Contract,565.34,270.47
+J01120,2026-07-20,C0247,Mohammed Bin Zayed City,AC Maintenance,Villa,Annual Contract,198.15,125.64
+J01121,2026-07-20,C0221,Mohammed Bin Zayed City,AC Maintenance,Apartment,Pay-per-visit,317.37,184.77
+J01122,2026-07-21,C0253,Al Raha,Deep Cleaning,Apartment,Pay-per-visit,438.29,264.49
+J01123,2026-07-21,C0412,Al Mushrif,AC Maintenance,Villa,Annual Contract,471.67,255.8
+J01124,2026-07-21,C0017,Mohammed Bin Zayed City,Electrical,Apartment,Pay-per-visit,266.7,126.43
+J01125,2026-07-22,C0146,Al Reem Island,Solar Panel Cleaning,Property Manager,Annual Contract,513.25,275.44
+J01126,2026-07-22,C0467,Al Reem Island,AC Maintenance,Property Manager,Annual Contract,708.78,433.42
+J01127,2026-07-22,C0298,Yas Island,AC Maintenance,Property Manager,Annual Contract,556.38,347.04
+J01128,2026-07-23,C0070,Al Raha,AC Maintenance,Apartment,Annual Contract,448.56,297.13
+J01129,2026-07-23,C0063,Yas Island,Deep Cleaning,Villa,Annual Contract,463.72,302.74
+J01130,2026-07-23,C0059,Mussafah,AC Maintenance,Villa,Pay-per-visit,465.28,294.0
+J01131,2026-07-23,C0311,Mohammed Bin Zayed City,Water-Saving Retrofit,Villa,Annual Contract,879.79,541.49
+J01132,2026-07-24,C0497,Mohammed Bin Zayed City,Pest Control,Villa,Annual Contract,212.78,110.5
+J01133,2026-07-24,C0229,Saadiyat Island,AC Maintenance,Villa,Pay-per-visit,450.38,273.65
+J01134,2026-07-24,C0032,Al Reem Island,Solar Panel Cleaning,Apartment,Pay-per-visit,500.76,221.3
+J01135,2026-07-24,C0508,Mohammed Bin Zayed City,Plumbing,Villa,Pay-per-visit,172.03,105.81
+J01136,2026-07-24,C0421,Saadiyat Island,Solar Panel Cleaning,Villa,Pay-per-visit,305.35,157.1
+J01137,2026-07-24,C0154,Saadiyat Island,AC Maintenance,Apartment,Annual Contract,310.72,196.04
+J01138,2026-07-24,C0388,Al Mushrif,Electrical,Villa,Annual Contract,221.47,124.23
+J01139,2026-07-25,C0049,Saadiyat Island,AC Maintenance,Villa,Annual Contract,461.67,265.91
+J01140,2026-07-25,C0316,Saadiyat Island,Pest Control,Apartment,Pay-per-visit,364.24,186.65
+J01141,2026-07-25,C0300,Al Reem Island,Electrical,Apartment,Annual Contract,350.7,183.56
+J01142,2026-07-25,C0401,Al Raha,Water-Saving Retrofit,Villa,Annual Contract,952.79,634.67
+J01143,2026-07-25,C0517,Mohammed Bin Zayed City,Electrical,Apartment,Pay-per-visit,367.82,205.07
+J01144,2026-07-25,C0136,Al Raha,AC Maintenance,Villa,Pay-per-visit,328.4,212.25
+J01145,2026-07-25,C0503,Yas Island,Pest Control,Apartment,Pay-per-visit,551.77,294.18
+J01146,2026-07-26,C0356,Al Reem Island,AC Maintenance,Apartment,Pay-per-visit,375.66,238.85
+J01147,2026-07-26,C0166,Saadiyat Island,Plumbing,Villa,Pay-per-visit,244.07,150.67
+J01148,2026-07-26,C0100,Mohammed Bin Zayed City,Solar Panel Cleaning,Villa,Pay-per-visit,530.02,269.2
+J01149,2026-07-26,C0453,Yas Island,AC Maintenance,Villa,Pay-per-visit,560.98,332.39
+J01150,2026-07-27,C0291,Al Reem Island,Solar Panel Cleaning,Apartment,Pay-per-visit,366.02,183.2
+J01151,2026-07-27,C0283,Khalifa City,Pest Control,Villa,Pay-per-visit,280.79,146.61
+J01152,2026-07-27,C0488,Saadiyat Island,Pest Control,Villa,Pay-per-visit,336.46,177.83
+J01153,2026-07-27,C0016,Khalifa City,Water-Saving Retrofit,Apartment,Annual Contract,966.41,651.37
+J01154,2026-07-27,C0379,Yas Island,Solar Panel Cleaning,Villa,Annual Contract,330.62,174.65
+J01155,2026-07-28,C0407,Mohammed Bin Zayed City,Water-Saving Retrofit,Apartment,Annual Contract,404.99,269.84
+J01156,2026-07-28,C0141,Saadiyat Island,Solar Panel Cleaning,Apartment,Pay-per-visit,452.73,255.91
+J01157,2026-07-28,C0422,Mohammed Bin Zayed City,Electrical,Apartment,Pay-per-visit,312.9,200.18
+J01158,2026-07-29,C0468,Mohammed Bin Zayed City,Solar Panel Cleaning,Apartment,Annual Contract,215.94,114.35
+J01159,2026-07-29,C0003,Saadiyat Island,Deep Cleaning,Apartment,Pay-per-visit,600.17,373.89
+J01160,2026-07-29,C0405,Yas Island,Electrical,Apartment,Annual Contract,284.26,134.78
+J01161,2026-07-29,C0496,Saadiyat Island,Plumbing,Apartment,Pay-per-visit,227.67,128.31
+J01162,2026-07-29,C0157,Khalifa City,Plumbing,Villa,Pay-per-visit,289.37,155.93
+J01163,2026-07-29,C0018,Khalifa City,Electrical,Apartment,Annual Contract,173.32,91.85
+J01164,2026-07-30,C0079,Yas Island,Solar Panel Cleaning,Villa,Annual Contract,289.46,169.84
+J01165,2026-07-30,C0038,Yas Island,AC Maintenance,Apartment,Pay-per-visit,411.9,264.07
+J01166,2026-07-31,C0154,Saadiyat Island,Plumbing,Apartment,Annual Contract,224.11,138.54
+J01167,2026-07-31,C0214,Al Raha,Plumbing,Villa,Annual Contract,249.26,153.3
+J01168,2026-07-31,C0398,Al Raha,Electrical,Apartment,Pay-per-visit,202.02,115.74
+J01169,2026-07-31,C0095,Yas Island,AC Maintenance,Villa,Annual Contract,400.54,241.81
+J01170,2026-07-31,C0448,Al Raha,Water-Saving Retrofit,Villa,Pay-per-visit,827.6,601.16
+J01171,2026-08-01,C0418,Corniche / City Center,AC Maintenance,Apartment,Annual Contract,376.29,205.14
+J01172,2026-08-01,C0198,Mohammed Bin Zayed City,Pest Control,Property Manager,Annual Contract,328.47,154.18
+J01173,2026-08-01,C0024,Al Reem Island,Water-Saving Retrofit,Villa,Annual Contract,1442.0,1072.51
+J01174,2026-08-02,C0034,Corniche / City Center,AC Maintenance,Property Manager,Annual Contract,499.24,322.69
+J01175,2026-08-02,C0167,Khalifa City,Plumbing,Property Manager,Annual Contract,261.63,169.04
+J01176,2026-08-02,C0426,Saadiyat Island,Electrical,Apartment,Annual Contract,599.11,307.61
+J01177,2026-08-02,C0054,Al Raha,Solar Panel Cleaning,Villa,Pay-per-visit,262.75,152.05
+J01178,2026-08-02,C0509,Al Raha,AC Maintenance,Villa,Pay-per-visit,422.79,227.87
+J01179,2026-08-02,C0457,Yas Island,AC Maintenance,Property Manager,Annual Contract,622.84,370.57
+J01180,2026-08-03,C0223,Al Mushrif,Landscaping,Villa,Annual Contract,317.91,203.83
+J01181,2026-08-03,C0312,Khalifa City,AC Maintenance,Apartment,Annual Contract,284.09,162.26
+J01182,2026-08-04,C0328,Yas Island,AC Maintenance,Villa,Pay-per-visit,303.81,191.32
+J01183,2026-08-04,C0005,Yas Island,Electrical,Apartment,Annual Contract,259.8,152.93
+J01184,2026-08-05,C0067,Mussafah,AC Maintenance,Villa,Annual Contract,303.05,164.62
+J01185,2026-08-05,C0073,Saadiyat Island,AC Maintenance,Property Manager,Annual Contract,559.99,354.18
+J01186,2026-08-05,C0254,Saadiyat Island,Solar Panel Cleaning,Apartment,Annual Contract,345.9,181.51
+J01187,2026-08-06,C0244,Al Raha,Electrical,Villa,Annual Contract,193.64,117.59
+J01188,2026-08-06,C0390,Al Reem Island,Plumbing,Apartment,Pay-per-visit,175.62,99.47
+J01189,2026-08-07,C0436,Al Raha,Plumbing,Property Manager,Annual Contract,346.98,210.74
+J01190,2026-08-07,C0326,Yas Island,AC Maintenance,Property Manager,Annual Contract,827.32,527.89
+J01191,2026-08-07,C0082,Yas Island,Landscaping,Villa,Annual Contract,697.37,443.84
+J01192,2026-08-07,C0085,Yas Island,Solar Panel Cleaning,Villa,Annual Contract,387.24,186.83
+J01193,2026-08-08,C0036,Saadiyat Island,Solar Panel Cleaning,Apartment,Annual Contract,274.0,142.25
+J01194,2026-08-08,C0024,Al Reem Island,Pest Control,Villa,Annual Contract,322.32,166.26
+J01195,2026-08-08,C0039,Al Mushrif,AC Maintenance,Apartment,Annual Contract,361.79,222.74
+J01196,2026-08-09,C0034,Corniche / City Center,AC Maintenance,Property Manager,Annual Contract,879.74,554.84
+J01197,2026-08-10,C0057,Al Reem Island,Pest Control,Villa,Annual Contract,179.49,80.75
+J01198,2026-08-11,C0300,Al Reem Island,Water-Saving Retrofit,Apartment,Annual Contract,680.0,453.1
+J01199,2026-08-11,C0282,Mohammed Bin Zayed City,Pest Control,Apartment,Annual Contract,346.34,182.28
+J01200,2026-08-12,C0426,Saadiyat Island,Deep Cleaning,Apartment,Annual Contract,641.27,392.17
+J01201,2026-08-13,C0141,Saadiyat Island,Landscaping,Apartment,Pay-per-visit,522.17,344.01
+J01202,2026-08-13,C0500,Mohammed Bin Zayed City,Pest Control,Villa,Annual Contract,324.38,149.43
+J01203,2026-08-14,C0063,Yas Island,Pest Control,Villa,Annual Contract,304.01,178.61
+J01204,2026-08-14,C0461,Saadiyat Island,Solar Panel Cleaning,Property Manager,Annual Contract,515.51,298.98
+J01205,2026-08-14,C0003,Saadiyat Island,Electrical,Apartment,Pay-per-visit,398.77,242.27
+J01206,2026-08-14,C0322,Mohammed Bin Zayed City,Pest Control,Property Manager,Pay-per-visit,391.47,182.62
+J01207,2026-08-15,C0455,Corniche / City Center,Solar Panel Cleaning,Villa,Pay-per-visit,298.03,160.39
+J01208,2026-08-15,C0234,Khalifa City,Electrical,Apartment,Annual Contract,168.84,88.44
+J01209,2026-08-16,C0342,Saadiyat Island,AC Maintenance,Villa,Annual Contract,600.58,380.5
+J01210,2026-08-16,C0445,Khalifa City,AC Maintenance,Villa,Annual Contract,334.5,174.54
+J01211,2026-08-17,C0306,Al Raha,Water-Saving Retrofit,Apartment,Pay-per-visit,1667.81,1057.06
+J01212,2026-08-17,C0454,Saadiyat Island,AC Maintenance,Villa,Annual Contract,330.12,192.56
+J01213,2026-08-17,C0459,Saadiyat Island,AC Maintenance,Apartment,Pay-per-visit,412.94,268.51
+J01214,2026-08-17,C0049,Saadiyat Island,AC Maintenance,Villa,Annual Contract,472.14,303.31
+J01215,2026-08-17,C0040,Al Reem Island,AC Maintenance,Property Manager,Annual Contract,501.63,299.78
+J01216,2026-08-18,C0467,Al Reem Island,AC Maintenance,Property Manager,Annual Contract,350.73,182.94
+J01217,2026-08-18,C0069,Saadiyat Island,Pest Control,Villa,Annual Contract,303.57,164.03
+J01218,2026-08-19,C0212,Mohammed Bin Zayed City,Solar Panel Cleaning,Property Manager,Annual Contract,500.37,269.59
+J01219,2026-08-19,C0320,Mohammed Bin Zayed City,Solar Panel Cleaning,Villa,Annual Contract,223.35,103.7
+J01220,2026-08-19,C0171,Mohammed Bin Zayed City,Electrical,Apartment,Annual Contract,129.7,65.41
+J01221,2026-08-19,C0365,Yas Island,Pest Control,Property Manager,Annual Contract,298.59,136.3
+J01222,2026-08-19,C0053,Al Mushrif,Pest Control,Property Manager,Annual Contract,428.37,190.68
+J01223,2026-08-19,C0195,Mussafah,Plumbing,Apartment,Pay-per-visit,133.75,80.07
+J01224,2026-08-20,C0504,Saadiyat Island,Electrical,Villa,Pay-per-visit,323.28,164.0
+J01225,2026-08-21,C0430,Mohammed Bin Zayed City,Deep Cleaning,Apartment,Pay-per-visit,708.91,378.55
+J01226,2026-08-21,C0415,Saadiyat Island,Pest Control,Property Manager,Pay-per-visit,451.96,193.32
+J01227,2026-08-21,C0457,Yas Island,Electrical,Property Manager,Annual Contract,380.83,227.25
+J01228,2026-08-21,C0429,Mohammed Bin Zayed City,Plumbing,Villa,Pay-per-visit,120.51,78.56
+J01229,2026-08-21,C0247,Mohammed Bin Zayed City,Pest Control,Villa,Annual Contract,248.83,137.95
+J01230,2026-08-22,C0258,Mohammed Bin Zayed City,AC Maintenance,Villa,Pay-per-visit,244.52,153.86
+J01231,2026-08-22,C0072,Al Mushrif,Pest Control,Apartment,Pay-per-visit,227.73,113.69
+J01232,2026-08-22,C0229,Saadiyat Island,Pest Control,Villa,Pay-per-visit,392.46,206.53
+J01233,2026-08-22,C0145,Mussafah,Electrical,Villa,Annual Contract,171.92,108.01
+J01234,2026-08-22,C0481,Al Raha,Deep Cleaning,Villa,Pay-per-visit,709.24,411.59
+J01235,2026-08-23,C0385,Corniche / City Center,Water-Saving Retrofit,Property Manager,Annual Contract,968.95,657.12
+J01236,2026-08-24,C0426,Saadiyat Island,Pest Control,Apartment,Annual Contract,257.42,133.29
+J01237,2026-08-24,C0397,Yas Island,Pest Control,Villa,Pay-per-visit,401.64,205.77
+J01238,2026-08-24,C0488,Saadiyat Island,Plumbing,Villa,Pay-per-visit,305.56,189.03
+J01239,2026-08-24,C0112,Saadiyat Island,Electrical,Property Manager,Annual Contract,523.02,292.32
+J01240,2026-08-24,C0129,Al Reem Island,AC Maintenance,Apartment,Pay-per-visit,437.2,251.42
+J01241,2026-08-24,C0454,Saadiyat Island,Pest Control,Villa,Annual Contract,249.57,124.01
+J01242,2026-08-24,C0405,Yas Island,Pest Control,Apartment,Annual Contract,239.15,137.77
+J01243,2026-08-24,C0106,Mussafah,Water-Saving Retrofit,Apartment,Annual Contract,726.64,495.13
+J01244,2026-08-24,C0101,Yas Island,Pest Control,Apartment,Pay-per-visit,350.29,167.3
+J01245,2026-08-25,C0203,Yas Island,Pest Control,Villa,Pay-per-visit,254.13,121.96
+J01246,2026-08-25,C0223,Al Mushrif,Deep Cleaning,Villa,Annual Contract,828.15,554.47
+J01247,2026-08-25,C0450,Khalifa City,Solar Panel Cleaning,Apartment,Annual Contract,348.44,161.87
+J01248,2026-08-26,C0157,Khalifa City,Deep Cleaning,Villa,Pay-per-visit,805.54,473.49
+J01249,2026-08-27,C0046,Yas Island,AC Maintenance,Apartment,Pay-per-visit,400.59,227.04
+J01250,2026-08-28,C0360,Corniche / City Center,Deep Cleaning,Villa,Annual Contract,512.47,359.02
+J01251,2026-08-28,C0282,Mohammed Bin Zayed City,Water-Saving Retrofit,Apartment,Annual Contract,907.11,617.75
+J01252,2026-08-28,C0461,Saadiyat Island,AC Maintenance,Property Manager,Annual Contract,848.03,489.95
+J01253,2026-08-29,C0381,Khalifa City,Water-Saving Retrofit,Villa,Annual Contract,924.34,665.52
+J01254,2026-08-29,C0060,Mohammed Bin Zayed City,Electrical,Villa,Annual Contract,206.07,114.58
+J01255,2026-08-29,C0394,Yas Island,Solar Panel Cleaning,Villa,Annual Contract,335.01,147.63
+J01256,2026-08-30,C0226,Khalifa City,Plumbing,Villa,Pay-per-visit,230.74,133.11
+J01257,2026-08-30,C0311,Mohammed Bin Zayed City,Pest Control,Villa,Annual Contract,198.94,91.95
+J01258,2026-08-30,C0297,Saadiyat Island,Solar Panel Cleaning,Villa,Pay-per-visit,460.4,212.88
+J01259,2026-08-30,C0254,Saadiyat Island,Solar Panel Cleaning,Apartment,Annual Contract,386.18,201.03
+J01260,2026-08-30,C0440,Mohammed Bin Zayed City,Pest Control,Villa,Pay-per-visit,332.85,155.31
+J01261,2026-08-31,C0116,Yas Island,Deep Cleaning,Apartment,Pay-per-visit,694.11,410.9
+J01262,2026-08-31,C0365,Yas Island,Plumbing,Property Manager,Annual Contract,413.04,250.46
+J01263,2026-08-31,C0405,Yas Island,AC Maintenance,Apartment,Annual Contract,308.55,193.17
+J01264,2026-08-31,C0511,Mohammed Bin Zayed City,Electrical,Villa,Pay-per-visit,192.69,103.16
+J01265,2026-08-31,C0124,Al Reem Island,Deep Cleaning,Property Manager,Annual Contract,684.37,409.33
+J01266,2026-09-01,C0264,Al Raha,Electrical,Apartment,Annual Contract,179.96,93.54
+J01267,2026-09-01,C0207,Yas Island,Pest Control,Property Manager,Annual Contract,341.76,173.24
+J01268,2026-09-01,C0409,Al Reem Island,Water-Saving Retrofit,Villa,Annual Contract,1584.12,983.54
+J01269,2026-09-01,C0488,Saadiyat Island,AC Maintenance,Villa,Pay-per-visit,329.26,223.33
+J01270,2026-09-01,C0497,Mohammed Bin Zayed City,Pest Control,Villa,Annual Contract,245.18,133.01
+J01271,2026-09-01,C0366,Mohammed Bin Zayed City,Solar Panel Cleaning,Apartment,Pay-per-visit,342.63,189.17
+J01272,2026-09-02,C0236,Al Reem Island,AC Maintenance,Villa,Annual Contract,363.02,203.73
+J01273,2026-09-02,C0213,Yas Island,Pest Control,Property Manager,Pay-per-visit,506.87,254.76
+J01274,2026-09-02,C0031,Khalifa City,Electrical,Villa,Pay-per-visit,255.81,136.24
+J01275,2026-09-02,C0267,Mohammed Bin Zayed City,Landscaping,Villa,Annual Contract,277.11,191.45
+J01276,2026-09-03,C0197,Khalifa City,Solar Panel Cleaning,Villa,Pay-per-visit,276.22,138.95
+J01277,2026-09-04,C0024,Al Reem Island,AC Maintenance,Villa,Annual Contract,434.91,271.11
+J01278,2026-09-04,C0500,Mohammed Bin Zayed City,Electrical,Villa,Annual Contract,169.26,88.16
+J01279,2026-09-04,C0008,Yas Island,Landscaping,Villa,Pay-per-visit,608.6,419.12
+J01280,2026-09-04,C0270,Saadiyat Island,AC Maintenance,Apartment,Annual Contract,268.27,163.88
+J01281,2026-09-04,C0255,Mohammed Bin Zayed City,Pest Control,Apartment,Pay-per-visit,182.81,88.82
+J01282,2026-09-05,C0154,Saadiyat Island,AC Maintenance,Apartment,Annual Contract,216.2,136.94
+J01283,2026-09-05,C0457,Yas Island,AC Maintenance,Property Manager,Annual Contract,553.23,390.3
+J01284,2026-09-05,C0367,Mussafah,Solar Panel Cleaning,Villa,Annual Contract,305.63,151.99
+J01285,2026-09-05,C0503,Yas Island,Electrical,Apartment,Pay-per-visit,317.98,155.82
+J01286,2026-09-06,C0274,Yas Island,AC Maintenance,Property Manager,Annual Contract,401.73,241.7
+J01287,2026-09-06,C0015,Al Reem Island,Water-Saving Retrofit,Apartment,Pay-per-visit,1104.32,775.38
+J01288,2026-09-06,C0518,Yas Island,Electrical,Apartment,Pay-per-visit,422.32,227.1
+J01289,2026-09-07,C0067,Mussafah,Plumbing,Villa,Annual Contract,130.87,75.84
+J01290,2026-09-07,C0148,Yas Island,Electrical,Villa,Pay-per-visit,488.6,269.74
+J01291,2026-09-07,C0441,Mohammed Bin Zayed City,Electrical,Property Manager,Annual Contract,359.52,216.53
+J01292,2026-09-07,C0335,Mohammed Bin Zayed City,Electrical,Villa,Annual Contract,203.66,110.37
+J01293,2026-09-08,C0486,Mussafah,Water-Saving Retrofit,Villa,Pay-per-visit,799.6,569.56
+J01294,2026-09-08,C0210,Al Reem Island,AC Maintenance,Property Manager,Annual Contract,784.38,448.86
+J01295,2026-09-08,C0030,Al Mushrif,AC Maintenance,Villa,Annual Contract,264.51,145.94
+J01296,2026-09-09,C0321,Yas Island,Plumbing,Apartment,Pay-per-visit,221.24,132.33
+J01297,2026-09-09,C0436,Al Raha,Pest Control,Property Manager,Annual Contract,447.22,199.85
+J01298,2026-09-10,C0205,Saadiyat Island,Plumbing,Apartment,Annual Contract,374.56,224.71
+J01299,2026-09-10,C0174,Yas Island,Pest Control,Villa,Pay-per-visit,384.2,187.26
+J01300,2026-09-10,C0445,Khalifa City,Pest Control,Villa,Annual Contract,251.45,109.37
+J01301,2026-09-10,C0296,Al Raha,Pest Control,Villa,Annual Contract,444.68,245.17
+J01302,2026-09-10,C0298,Yas Island,Electrical,Property Manager,Annual Contract,287.59,169.51
+J01303,2026-09-11,C0177,Al Reem Island,Plumbing,Apartment,Pay-per-visit,204.65,120.97
+J01304,2026-09-11,C0021,Saadiyat Island,Plumbing,Villa,Annual Contract,204.16,116.08
+J01305,2026-09-11,C0342,Saadiyat Island,Plumbing,Villa,Annual Contract,144.56,89.65
+J01306,2026-09-11,C0153,Khalifa City,Electrical,Property Manager,Annual Contract,298.59,168.77
+J01307,2026-09-11,C0200,Yas Island,Solar Panel Cleaning,Apartment,Pay-per-visit,315.85,131.47
+J01308,2026-09-11,C0365,Yas Island,Solar Panel Cleaning,Property Manager,Annual Contract,482.54,247.64
+J01309,2026-09-12,C0154,Saadiyat Island,AC Maintenance,Apartment,Annual Contract,371.67,232.8
+J01310,2026-09-12,C0016,Khalifa City,Plumbing,Apartment,Annual Contract,348.17,204.96
+J01311,2026-09-13,C0468,Mohammed Bin Zayed City,Plumbing,Apartment,Annual Contract,165.03,97.32
+J01312,2026-09-13,C0377,Saadiyat Island,Water-Saving Retrofit,Apartment,Pay-per-visit,1036.97,699.62
+J01313,2026-09-14,C0218,Saadiyat Island,Electrical,Apartment,Annual Contract,351.58,190.26
+J01314,2026-09-14,C0335,Mohammed Bin Zayed City,Plumbing,Villa,Annual Contract,192.5,121.81
+J01315,2026-09-15,C0199,Yas Island,Water-Saving Retrofit,Property Manager,Annual Contract,2153.05,1647.23
+J01316,2026-09-15,C0057,Al Reem Island,Pest Control,Villa,Annual Contract,223.2,108.49
+J01317,2026-09-15,C0030,Al Mushrif,AC Maintenance,Villa,Annual Contract,226.73,138.74
+J01318,2026-09-15,C0333,Al Mushrif,Landscaping,Apartment,Pay-per-visit,349.88,234.76
+J01319,2026-09-16,C0213,Yas Island,Deep Cleaning,Property Manager,Pay-per-visit,668.48,386.08
+J01320,2026-09-16,C0466,Al Reem Island,Electrical,Apartment,Annual Contract,269.76,153.17
+J01321,2026-09-16,C0306,Al Raha,Water-Saving Retrofit,Apartment,Pay-per-visit,770.48,491.37
+J01322,2026-09-16,C0405,Yas Island,Pest Control,Apartment,Annual Contract,181.26,104.52
+J01323,2026-09-16,C0404,Al Reem Island,Electrical,Apartment,Annual Contract,282.32,147.28
+J01324,2026-09-16,C0389,Saadiyat Island,Deep Cleaning,Villa,Pay-per-visit,839.17,532.62
+J01325,2026-09-17,C0458,Khalifa City,Solar Panel Cleaning,Apartment,Annual Contract,420.43,212.4
+J01326,2026-09-17,C0112,Saadiyat Island,Deep Cleaning,Property Manager,Annual Contract,861.44,511.6
+J01327,2026-09-17,C0205,Saadiyat Island,Water-Saving Retrofit,Apartment,Annual Contract,1040.05,685.19
+J01328,2026-09-18,C0506,Yas Island,Pest Control,Apartment,Pay-per-visit,250.1,142.95
+J01329,2026-09-19,C0095,Yas Island,Electrical,Villa,Annual Contract,258.13,140.6
+J01330,2026-09-19,C0089,Corniche / City Center,Electrical,Villa,Pay-per-visit,204.36,119.55
+J01331,2026-09-19,C0059,Mussafah,Plumbing,Villa,Pay-per-visit,137.72,86.36
+J01332,2026-09-19,C0412,Al Mushrif,Electrical,Villa,Annual Contract,253.82,147.48
+J01333,2026-09-19,C0295,Mohammed Bin Zayed City,AC Maintenance,Villa,Annual Contract,368.26,232.96
+J01334,2026-09-19,C0223,Al Mushrif,Solar Panel Cleaning,Villa,Annual Contract,357.38,172.9
+J01335,2026-09-20,C0104,Mohammed Bin Zayed City,Water-Saving Retrofit,Property Manager,Annual Contract,1033.59,696.21
+J01336,2026-09-20,C0386,Al Reem Island,Water-Saving Retrofit,Property Manager,Annual Contract,1541.81,979.66
+J01337,2026-09-20,C0498,Saadiyat Island,Plumbing,Apartment,Pay-per-visit,247.43,135.19
+J01338,2026-09-21,C0180,Mohammed Bin Zayed City,Electrical,Villa,Pay-per-visit,321.73,166.33
+J01339,2026-09-21,C0407,Mohammed Bin Zayed City,Landscaping,Apartment,Annual Contract,258.52,170.11
+J01340,2026-09-21,C0230,Al Reem Island,Pest Control,Villa,Pay-per-visit,317.76,182.34
+J01341,2026-09-21,C0218,Saadiyat Island,AC Maintenance,Apartment,Annual Contract,579.23,382.04
+J01342,2026-09-23,C0013,Khalifa City,Pest Control,Apartment,Annual Contract,273.97,136.93
+J01343,2026-09-23,C0056,Al Raha,Deep Cleaning,Villa,Pay-per-visit,521.34,338.8
+J01344,2026-09-23,C0306,Al Raha,Pest Control,Apartment,Pay-per-visit,383.05,198.18
+J01345,2026-09-23,C0242,Mohammed Bin Zayed City,Landscaping,Apartment,Annual Contract,334.69,213.15
+J01346,2026-09-24,C0353,Saadiyat Island,Plumbing,Apartment,Pay-per-visit,307.32,195.17
+J01347,2026-09-24,C0440,Mohammed Bin Zayed City,Solar Panel Cleaning,Villa,Pay-per-visit,550.4,255.24
+J01348,2026-09-24,C0255,Mohammed Bin Zayed City,Pest Control,Apartment,Pay-per-visit,363.45,180.87
+J01349,2026-09-24,C0171,Mohammed Bin Zayed City,AC Maintenance,Apartment,Annual Contract,406.41,243.55
+J01350,2026-09-24,C0500,Mohammed Bin Zayed City,Pest Control,Villa,Annual Contract,292.16,162.41
+J01351,2026-09-24,C0205,Saadiyat Island,AC Maintenance,Apartment,Annual Contract,417.79,262.36
+J01352,2026-09-24,C0492,Mohammed Bin Zayed City,Plumbing,Property Manager,Pay-per-visit,300.8,158.87
+J01353,2026-09-25,C0081,Al Reem Island,Landscaping,Property Manager,Pay-per-visit,801.7,509.43
+J01354,2026-09-25,C0304,Mohammed Bin Zayed City,Electrical,Property Manager,Annual Contract,330.0,169.05
+J01355,2026-09-25,C0053,Al Mushrif,AC Maintenance,Property Manager,Annual Contract,579.63,361.03
+J01356,2026-09-25,C0424,Mohammed Bin Zayed City,Electrical,Villa,Pay-per-visit,192.77,92.69
+J01357,2026-09-25,C0341,Mussafah,Water-Saving Retrofit,Property Manager,Annual Contract,1531.56,1055.75
+J01358,2026-09-25,C0294,Mohammed Bin Zayed City,Electrical,Villa,Annual Contract,322.23,179.29
+J01359,2026-09-26,C0290,Saadiyat Island,Deep Cleaning,Apartment,Pay-per-visit,887.53,593.33
+J01360,2026-09-26,C0176,Saadiyat Island,Pest Control,Apartment,Pay-per-visit,671.35,329.77
+J01361,2026-09-27,C0482,Yas Island,Plumbing,Villa,Pay-per-visit,354.17,222.0
+J01362,2026-09-27,C0274,Yas Island,Plumbing,Property Manager,Annual Contract,397.47,241.33
+J01363,2026-09-27,C0311,Mohammed Bin Zayed City,Deep Cleaning,Villa,Annual Contract,441.47,260.2
+J01364,2026-09-27,C0024,Al Reem Island,Solar Panel Cleaning,Villa,Annual Contract,359.01,185.89
+J01365,2026-09-27,C0292,Mohammed Bin Zayed City,Deep Cleaning,Apartment,Pay-per-visit,639.23,382.7
+J01366,2026-09-28,C0279,Mohammed Bin Zayed City,Landscaping,Villa,Pay-per-visit,274.47,166.46
+J01367,2026-09-28,C0308,Al Reem Island,Pest Control,Apartment,Annual Contract,407.21,172.3
+J01368,2026-09-28,C0442,Saadiyat Island,Landscaping,Villa,Pay-per-visit,322.47,206.46
+J01369,2026-09-28,C0355,Corniche / City Center,Plumbing,Apartment,Pay-per-visit,252.11,135.68
+J01370,2026-09-28,C0036,Saadiyat Island,Electrical,Apartment,Annual Contract,232.46,129.55
+J01371,2026-09-28,C0165,Khalifa City,Deep Cleaning,Villa,Pay-per-visit,538.2,334.58
+J01372,2026-09-28,C0398,Al Raha,AC Maintenance,Apartment,Pay-per-visit,365.59,235.13
+J01373,2026-09-29,C0360,Corniche / City Center,Pest Control,Villa,Annual Contract,269.15,137.58
+J01374,2026-09-29,C0192,Yas Island,AC Maintenance,Villa,Pay-per-visit,415.73,265.15
+J01375,2026-09-29,C0463,Mussafah,Electrical,Property Manager,Annual Contract,258.7,132.65
+J01376,2026-09-29,C0236,Al Reem Island,Water-Saving Retrofit,Villa,Annual Contract,736.54,532.06
+J01377,2026-09-30,C0201,Yas Island,AC Maintenance,Villa,Annual Contract,468.46,315.09
+J01378,2026-09-30,C0249,Yas Island,Electrical,Apartment,Pay-per-visit,542.9,312.12
+J01379,2026-10-01,C0475,Yas Island,AC Maintenance,Property Manager,Annual Contract,629.53,373.4
+J01380,2026-10-01,C0030,Al Mushrif,Electrical,Villa,Annual Contract,202.71,97.85
+J01381,2026-10-01,C0388,Al Mushrif,Plumbing,Villa,Annual Contract,211.17,120.07
+J01382,2026-10-01,C0269,Mohammed Bin Zayed City,Landscaping,Apartment,Annual Contract,272.61,164.47
+J01383,2026-10-01,C0018,Khalifa City,AC Maintenance,Apartment,Annual Contract,291.9,163.15
+J01384,2026-10-01,C0169,Mohammed Bin Zayed City,Electrical,Villa,Pay-per-visit,170.58,87.95
+J01385,2026-10-01,C0351,Al Raha,Electrical,Apartment,Pay-per-visit,392.73,230.33
+J01386,2026-10-02,C0390,Al Reem Island,Water-Saving Retrofit,Apartment,Pay-per-visit,814.97,582.26
+J01387,2026-10-02,C0239,Yas Island,Pest Control,Property Manager,Annual Contract,450.81,231.28
+J01388,2026-10-02,C0497,Mohammed Bin Zayed City,Pest Control,Villa,Annual Contract,264.6,122.18
+J01389,2026-10-03,C0384,Al Raha,Deep Cleaning,Property Manager,Pay-per-visit,1036.82,600.34
+J01390,2026-10-03,C0510,Mussafah,Deep Cleaning,Property Manager,Annual Contract,557.61,317.32
+J01391,2026-10-04,C0428,Mohammed Bin Zayed City,Landscaping,Apartment,Annual Contract,566.31,341.44
+J01392,2026-10-04,C0385,Corniche / City Center,Electrical,Property Manager,Annual Contract,373.64,179.73
+J01393,2026-10-04,C0493,Al Reem Island,Landscaping,Villa,Pay-per-visit,623.28,398.41
+J01394,2026-10-05,C0142,Yas Island,Water-Saving Retrofit,Apartment,Pay-per-visit,1115.57,807.45
+J01395,2026-10-05,C0073,Saadiyat Island,Solar Panel Cleaning,Property Manager,Annual Contract,563.94,289.78
+J01396,2026-10-05,C0442,Saadiyat Island,Landscaping,Villa,Pay-per-visit,854.62,534.84
+J01397,2026-10-05,C0365,Yas Island,Solar Panel Cleaning,Property Manager,Annual Contract,538.04,272.94
+J01398,2026-10-05,C0394,Yas Island,Water-Saving Retrofit,Villa,Annual Contract,1417.02,940.12
+J01399,2026-10-05,C0023,Saadiyat Island,Pest Control,Property Manager,Annual Contract,568.31,288.85
+J01400,2026-10-05,C0132,Saadiyat Island,Plumbing,Apartment,Annual Contract,237.02,156.18
+J01401,2026-10-05,C0069,Saadiyat Island,Solar Panel Cleaning,Villa,Annual Contract,585.53,311.9
+J01402,2026-10-06,C0411,Yas Island,Plumbing,Villa,Pay-per-visit,256.37,164.6
+J01403,2026-10-06,C0484,Al Raha,Electrical,Property Manager,Annual Contract,350.64,180.18
+J01404,2026-10-06,C0515,Al Raha,Plumbing,Villa,Pay-per-visit,312.74,178.23
+J01405,2026-10-07,C0211,Yas Island,Landscaping,Villa,Annual Contract,354.16,227.94
+J01406,2026-10-07,C0141,Saadiyat Island,Pest Control,Apartment,Pay-per-visit,342.92,176.95
+J01407,2026-10-07,C0091,Khalifa City,AC Maintenance,Apartment,Pay-per-visit,293.46,167.62
+J01408,2026-10-07,C0289,Al Raha,Pest Control,Apartment,Pay-per-visit,230.05,103.2
+J01409,2026-10-07,C0170,Saadiyat Island,Water-Saving Retrofit,Apartment,Pay-per-visit,1104.32,751.7
+J01410,2026-10-07,C0163,Saadiyat Island,Solar Panel Cleaning,Villa,Pay-per-visit,615.98,331.19
+J01411,2026-10-08,C0136,Al Raha,Plumbing,Villa,Pay-per-visit,353.23,211.7
+J01412,2026-10-08,C0458,Khalifa City,Solar Panel Cleaning,Apartment,Annual Contract,386.02,175.38
+J01413,2026-10-08,C0199,Yas Island,Pest Control,Property Manager,Annual Contract,255.43,136.89
+J01414,2026-10-09,C0060,Mohammed Bin Zayed City,Solar Panel Cleaning,Villa,Annual Contract,308.9,156.1
+J01415,2026-10-09,C0492,Mohammed Bin Zayed City,Water-Saving Retrofit,Property Manager,Pay-per-visit,837.4,563.28
+J01416,2026-10-09,C0167,Khalifa City,AC Maintenance,Property Manager,Annual Contract,482.14,313.03
+J01417,2026-10-10,C0513,Yas Island,Landscaping,Villa,Pay-per-visit,393.75,274.12
+J01418,2026-10-10,C0055,Mohammed Bin Zayed City,Water-Saving Retrofit,Apartment,Pay-per-visit,1019.76,679.8
+J01419,2026-10-10,C0104,Mohammed Bin Zayed City,Deep Cleaning,Property Manager,Annual Contract,761.22,483.54
+J01420,2026-10-11,C0174,Yas Island,AC Maintenance,Villa,Pay-per-visit,375.33,223.79
+J01421,2026-10-11,C0161,Al Raha,Pest Control,Villa,Pay-per-visit,155.34,73.69
+J01422,2026-10-12,C0152,Mohammed Bin Zayed City,Electrical,Villa,Pay-per-visit,225.65,125.18
+J01423,2026-10-12,C0035,Yas Island,AC Maintenance,Villa,Annual Contract,409.14,258.79
+J01424,2026-10-12,C0365,Yas Island,Pest Control,Property Manager,Annual Contract,300.52,157.96
+J01425,2026-10-12,C0502,Saadiyat Island,AC Maintenance,Property Manager,Annual Contract,397.06,240.02
+J01426,2026-10-13,C0314,Yas Island,Water-Saving Retrofit,Property Manager,Pay-per-visit,1241.07,890.57
+J01427,2026-10-13,C0396,Al Mushrif,Solar Panel Cleaning,Villa,Annual Contract,369.19,195.02
+J01428,2026-10-14,C0054,Al Raha,AC Maintenance,Villa,Pay-per-visit,368.31,188.53
+J01429,2026-10-14,C0285,Mohammed Bin Zayed City,AC Maintenance,Property Manager,Annual Contract,533.25,274.47
+J01430,2026-10-14,C0441,Mohammed Bin Zayed City,Deep Cleaning,Property Manager,Annual Contract,462.3,284.75
+J01431,2026-10-14,C0383,Khalifa City,Deep Cleaning,Property Manager,Annual Contract,590.8,355.11
+J01432,2026-10-15,C0199,Yas Island,AC Maintenance,Property Manager,Annual Contract,355.74,233.96
+J01433,2026-10-15,C0070,Al Raha,Electrical,Apartment,Annual Contract,327.8,180.43
+J01434,2026-10-15,C0258,Mohammed Bin Zayed City,Deep Cleaning,Villa,Pay-per-visit,576.51,381.49
+J01435,2026-10-15,C0283,Khalifa City,Pest Control,Villa,Pay-per-visit,261.49,132.49
+J01436,2026-10-16,C0048,Mohammed Bin Zayed City,Landscaping,Villa,Pay-per-visit,545.25,368.94
+J01437,2026-10-16,C0446,Yas Island,Water-Saving Retrofit,Apartment,Annual Contract,822.31,557.59
+J01438,2026-10-16,C0060,Mohammed Bin Zayed City,Water-Saving Retrofit,Villa,Annual Contract,930.35,743.84
+J01439,2026-10-16,C0287,Yas Island,Deep Cleaning,Apartment,Pay-per-visit,690.61,411.22
+J01440,2026-10-17,C0510,Mussafah,Deep Cleaning,Property Manager,Annual Contract,732.54,448.65
+J01441,2026-10-17,C0153,Khalifa City,Solar Panel Cleaning,Property Manager,Annual Contract,374.9,190.66
+J01442,2026-10-17,C0357,Mohammed Bin Zayed City,Solar Panel Cleaning,Property Manager,Annual Contract,348.07,169.91
+J01443,2026-10-17,C0055,Mohammed Bin Zayed City,Water-Saving Retrofit,Apartment,Pay-per-visit,739.69,491.02
+J01444,2026-10-18,C0094,Al Raha,Solar Panel Cleaning,Villa,Pay-per-visit,274.6,155.15
+J01445,2026-10-18,C0384,Al Raha,Pest Control,Property Manager,Pay-per-visit,599.22,284.85
+J01446,2026-10-18,C0350,Khalifa City,Water-Saving Retrofit,Apartment,Annual Contract,682.71,466.34
+J01447,2026-10-19,C0244,Al Raha,Plumbing,Villa,Annual Contract,281.57,163.48
+J01448,2026-10-19,C0477,Khalifa City,Pest Control,Villa,Pay-per-visit,296.13,132.84
+J01449,2026-10-20,C0304,Mohammed Bin Zayed City,AC Maintenance,Property Manager,Annual Contract,518.28,353.39
+J01450,2026-10-21,C0142,Yas Island,Deep Cleaning,Apartment,Pay-per-visit,680.77,427.37
+J01451,2026-10-21,C0382,Khalifa City,Electrical,Villa,Annual Contract,242.66,133.53
+J01452,2026-10-22,C0269,Mohammed Bin Zayed City,Plumbing,Apartment,Annual Contract,139.23,72.16
+J01453,2026-10-22,C0317,Saadiyat Island,Landscaping,Villa,Pay-per-visit,583.21,384.26
+J01454,2026-10-22,C0223,Al Mushrif,AC Maintenance,Villa,Annual Contract,368.64,236.8
+J01455,2026-10-23,C0145,Mussafah,Solar Panel Cleaning,Villa,Annual Contract,182.32,83.29
+J01456,2026-10-23,C0247,Mohammed Bin Zayed City,Landscaping,Villa,Annual Contract,285.26,180.47
+J01457,2026-10-23,C0186,Al Reem Island,AC Maintenance,Apartment,Annual Contract,506.82,290.76
+J01458,2026-10-24,C0512,Al Mushrif,Deep Cleaning,Villa,Pay-per-visit,732.54,445.51
+J01459,2026-10-24,C0136,Al Raha,Electrical,Villa,Pay-per-visit,191.36,107.22
+J01460,2026-10-24,C0146,Al Reem Island,AC Maintenance,Property Manager,Annual Contract,346.25,213.81
+J01461,2026-10-24,C0258,Mohammed Bin Zayed City,Electrical,Villa,Pay-per-visit,271.55,152.05
+J01462,2026-10-25,C0450,Khalifa City,Plumbing,Apartment,Annual Contract,176.94,107.92
+J01463,2026-10-25,C0216,Yas Island,Deep Cleaning,Villa,Pay-per-visit,839.92,488.82
+J01464,2026-10-25,C0134,Yas Island,Deep Cleaning,Villa,Pay-per-visit,808.31,511.81
+J01465,2026-10-26,C0067,Mussafah,Deep Cleaning,Villa,Annual Contract,275.81,184.66
+J01466,2026-10-26,C0295,Mohammed Bin Zayed City,Plumbing,Villa,Annual Contract,194.31,117.3
+J01467,2026-10-27,C0467,Al Reem Island,Water-Saving Retrofit,Property Manager,Annual Contract,1305.61,882.47
+J01468,2026-10-27,C0314,Yas Island,Deep Cleaning,Property Manager,Pay-per-visit,1126.86,708.77
+J01469,2026-10-28,C0212,Mohammed Bin Zayed City,Plumbing,Property Manager,Annual Contract,304.2,179.52
+J01470,2026-10-28,C0475,Yas Island,Solar Panel Cleaning,Property Manager,Annual Contract,685.42,360.23
+J01471,2026-10-28,C0381,Khalifa City,Landscaping,Villa,Annual Contract,403.44,260.62
+J01472,2026-10-28,C0230,Al Reem Island,Pest Control,Villa,Pay-per-visit,258.67,133.7
+J01473,2026-10-29,C0466,Al Reem Island,Solar Panel Cleaning,Apartment,Annual Contract,332.15,168.94
+J01474,2026-10-29,C0039,Al Mushrif,Pest Control,Apartment,Annual Contract,224.23,108.68
+J01475,2026-10-29,C0236,Al Reem Island,Solar Panel Cleaning,Villa,Annual Contract,269.0,159.12
+J01476,2026-10-29,C0390,Al Reem Island,Electrical,Apartment,Pay-per-visit,241.39,140.04
+J01477,2026-10-29,C0404,Al Reem Island,AC Maintenance,Apartment,Annual Contract,378.38,207.06
+J01478,2026-10-30,C0223,Al Mushrif,Pest Control,Villa,Annual Contract,235.93,117.31
+J01479,2026-10-30,C0145,Mussafah,Electrical,Villa,Annual Contract,274.94,149.03
+J01480,2026-10-30,C0503,Yas Island,Solar Panel Cleaning,Apartment,Pay-per-visit,405.85,213.28
+J01481,2026-10-30,C0210,Al Reem Island,Landscaping,Property Manager,Annual Contract,687.44,436.3
+J01482,2026-10-31,C0299,Saadiyat Island,Water-Saving Retrofit,Villa,Annual Contract,1422.83,985.82
+J01483,2026-10-31,C0051,Yas Island,Landscaping,Villa,Pay-per-visit,412.82,278.61
+J01484,2026-10-31,C0360,Corniche / City Center,Deep Cleaning,Villa,Annual Contract,450.72,275.26
+J01485,2026-10-31,C0206,Yas Island,Water-Saving Retrofit,Apartment,Pay-per-visit,789.11,583.89
